@@ -1,0 +1,40 @@
+# --- Python ---
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+
+# --- Configuration & Secrets ---
+# On ignore les fichiers de config contenant les mots de passe
+config/config.ini
+docker/local.env
+docker/certs/
+
+# --- Data & Storage ---
+# On ignore les extractions temporaires et les données sources/résultats
+temp_extract/
+data/attachments/*
+data/pst/*
+# Sauf le fichier .gitkeep s'il existe pour garder la structure
+!data/attachments/.gitkeep
+!data/pst/.gitkeep
+
+# --- Docker & DB Data ---
+# On ne versionne pas les fichiers de données binaires de MariaDB
+docker/mariadb-master/data/*
+docker/mariadb-master/log/*
+!docker/mariadb-master/data/.gitkeep
+!docker/mariadb-master/log/.gitkeep
+
+# --- IDEs ---
+.idea/
+.vscode/
+.aiassistant/
+*.swp
+*.swo
+
+# --- System ---
+.DS_Store
+Thumbs.db

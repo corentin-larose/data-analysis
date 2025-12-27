@@ -1,0 +1,24 @@
+[mysql]
+default_character_set = utf8mb4
+
+[mysqld]
+bind-address = 0.0.0.0 # make sure to bind it to all IPs, else mysql listens on 127.0.0.1
+binlog_format=mixed
+binlog_ignore_db=mysql
+character_set_server = utf8mb4
+collation_server = utf8mb4_general_ci
+default-time-zone='UTC'
+gtid_domain_id = 1
+log_bin = /var/lib/mysql/mysql-bin.log
+log_slave_updates = ON
+server-id = 101
+sql_mode=TRADITIONAL
+
+log_queries_not_using_indexes = 1
+long_query_time = 0
+min_examined_row_limit = 1
+slow_query_log_file = /var/log/mysql/mysql-slow.log
+slow_query_log = 1
+
+general_log_file = /var/log/mysql/general.log
+general_log = 1

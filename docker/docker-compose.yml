@@ -1,0 +1,20 @@
+name: data-analysis
+services:
+  mariadb-master:
+    build: mariadb-master
+    container_name: mariadb-master
+    env_file: local.env
+    healthcheck:
+      interval: 10s
+      retries: 5
+      test: ["CMD", "mariadb-admin", "ping", "-h", "localhost", "--ssl-ca=/etc/mysql/ssl/ca-cert.pem", "--ssl-cert=/etc/mysql/ssl/server-cert.pem", "--ssl-key=/etc/mysql/ssl/server-key.pem"]
+      timeout: 5s
+    ports:
+      - '3306:3306'
+    restart: unless-stopped
+    volumes:
+      - ./certs/mariadb:/etc/mysql/ssl:ro
+      - ./mariadb-master/conf/master.cnf:/etc/mysql/conf.d/master.cnf:ro
+      - ./mariadb-master/data:/var/lib/mysql:delegated
+      - ./mariadb-master/log:/var/log/mysql:delegated
+      - ./mariadb-master/initdb:/docker-entrypoint-initdb.d:delegated
