@@ -18,3 +18,16 @@ services:
       - ./mariadb-master/data:/var/lib/mysql:delegated
       - ./mariadb-master/log:/var/log/mysql:delegated
       - ./mariadb-master/initdb:/docker-entrypoint-initdb.d:delegated
+
+  neo4j:
+    image: neo4j:latest
+    container_name: neo4j
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    volumes:
+      - ./neo4j/data:/data
+      - ./neo4j/logs:/logs
+      - ./neo4j/import:/var/lib/neo4j/import
+      - ./neo4j/plugins:/plugins
+    restart: unless-stopped

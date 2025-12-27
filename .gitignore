@@ -25,6 +25,8 @@ data/pst/*
 # On ne versionne pas les fichiers de données binaires de MariaDB
 docker/mariadb-master/data/*
 docker/mariadb-master/log/*
+docker/neo4j/data/*
+docker/neo4j/logs/*
 !docker/mariadb-master/data/.gitkeep
 !docker/mariadb-master/log/.gitkeep
 
