@@ -36,16 +36,34 @@ class Neo4jExporter:
     def import_data(self, maria_db_config):
         with self.driver.session() as session:
             print("Initialisation des contraintes Neo4j...")
-            session.run("CREATE CONSTRAINT IF NOT EXISTS FOR (p:Person) REQUIRE p.email IS UNIQUE")
+
+            # 1. Suppression propre : on liste les contraintes sans assumer le nom des colonnes
+            result = session.run("SHOW CONSTRAINTS")
+            for record in result:
+                # On récupère les valeurs de manière plus sûre (insensible à la casse/format)
+                r_dict = dict(record)
+                # On cherche une contrainte qui porte sur 'Person' et 'email'
+                labels = r_dict.get('labelsOrTypes') or r_dict.get('labels_or_types') or []
+                props = r_dict.get('properties') or []
+
+                if 'Person' in labels and 'email' in props:
+                    name = r_dict.get('name')
+                    print(f"Suppression de l'ancienne contrainte : {name}")
+                    session.run(f"DROP CONSTRAINT {name}")
+
+            # 2. Création de la nouvelle contrainte sur le nom (identifiant unique de la personne)
+            session.run("CREATE CONSTRAINT person_name_unique IF NOT EXISTS FOR (p:Person) REQUIRE p.name IS UNIQUE")
 
             conn = mysql.connector.connect(**maria_db_config)
-            # Utilisation de buffered=True pour éviter les problèmes de curseur sur de gros volumes
             cursor = conn.cursor(dictionary=True, buffered=True)
 
             print("Extraction des données depuis MariaDB...")
+            # On récupère le nom (ou l'email si NULL) comme identifiant principal
             query = """
                 SELECT
+                    COALESCE(id_sender.name, id_sender.email_address) AS sender_id,
                     id_sender.email_address AS sender_email,
+                    COALESCE(id_rcpt.name, id_rcpt.email_address) AS recipient_id,
                     id_rcpt.email_address AS recipient_email,
                     e.subject,
                     e.sent_at,
@@ -85,11 +103,24 @@ class Neo4jExporter:
 
     @staticmethod
     def _process_batch(session, batch_data):
-        # Utilisation de UNWIND pour une performance maximale (1 seule requête pour 500 lignes)
+        # Fusion par nom sans dépendance APOC.
+        # La logique REDUCE permet de maintenir une liste d'emails unique (Set) en pur Cypher.
         query = """
         UNWIND $rows AS row
-        MERGE (s:Person {email: row.sender_email})
-        MERGE (r:Person {email: row.recipient_email})
+
+        // Traitement de l'expéditeur
+        MERGE (s:Person {name: row.sender_id})
+        SET s.emails = REDUCE(acc = [], e IN (COALESCE(s.emails, []) + row.sender_email) |
+            CASE WHEN e IN acc THEN acc ELSE acc + e END
+        )
+
+        // Traitement du destinataire
+        MERGE (r:Person {name: row.recipient_id})
+        SET r.emails = REDUCE(acc = [], e IN (COALESCE(r.emails, []) + row.recipient_email) |
+            CASE WHEN e IN acc THEN acc ELSE acc + e END
+        )
+
+        // Création de la relation
         CREATE (s)-[:SENT_MESSAGE {
             subject: row.subject,
             date: datetime(row.sent_at),

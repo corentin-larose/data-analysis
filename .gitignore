@@ -1,3 +1,4 @@
+found/*
 # --- Python ---
 venv/
 .venv/
@@ -23,6 +24,7 @@ data/pst/*
 
 # --- Docker & DB Data ---
 # On ne versionne pas les fichiers de données binaires de MariaDB
+docker/elasticsearch/data/*
 docker/mariadb-master/data/*
 docker/mariadb-master/log/*
 docker/neo4j/data/*

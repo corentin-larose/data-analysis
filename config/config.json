@@ -1,0 +1,24 @@
+{
+  "elasticsearch": {
+    "host": "localhost",
+    "port": 9200,
+    "index_name": "emails"
+  },
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "database": "data-analysis",
+    "user": "root",
+    "password": "assword"
+  },
+  "detection": {
+    "min_doc_count_short": 20,
+    "min_doc_count_long": 15,
+    "min_doc_count_lines": 30,
+    "min_doc_count_disclaimers": 10,
+    "min_pattern_length": 30
+  },
+  "processing": {
+    "batch_size": 100
+  }
+}

@@ -2,3 +2,6 @@ sqlalchemy
 pymysql
 beautifulsoup4
 lxml
+elasticsearch>=8.12.0,<9.0.0
+mysql-connector-python>=8.0.0
+tqdm>=4.65.0

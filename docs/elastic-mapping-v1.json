@@ -1,0 +1,103 @@
+{
+  "settings": {
+    "number_of_shards": 1,
+    "number_of_replicas": 0,
+    "analysis": {
+      "filter": {
+        "french_elision": {
+          "type": "elision",
+          "articles_case": true,
+          "articles": [
+            "l",
+            "m",
+            "t",
+            "qu",
+            "n",
+            "s",
+            "j",
+            "d",
+            "c",
+            "jusqu",
+            "quoiqu",
+            "lorsqu",
+            "puisqu"
+          ]
+        }
+      },
+      "analyzer": {
+        "french_light": {
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": [
+            "lowercase",
+            "asciifolding",
+            "french_elision"
+          ]
+        },
+        "email_analyzer": {
+          "type": "custom",
+          "tokenizer": "uax_url_email",
+          "filter": [
+            "lowercase",
+            "stop",
+            "asciifolding"
+          ]
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "email_id": {
+        "type": "long"
+      },
+      "sent_at": {
+        "type": "date"
+      },
+      "subject": {
+        "type": "text",
+        "analyzer": "french",
+        "fields": {
+          "keyword": {
+            "type": "keyword",
+            "ignore_above": 256
+          }
+        }
+      },
+      "sender": {
+        "type": "text",
+        "analyzer": "email_analyzer"
+      },
+      "sender_name": {
+        "type": "keyword"
+      },
+      "recipients": {
+        "type": "text",
+        "analyzer": "email_analyzer"
+      },
+      "recipient_names": {
+        "type": "keyword"
+      },
+      "body": {
+        "type": "text",
+        "analyzer": "french",
+        "fields": {
+          "light": {
+            "type": "text",
+            "analyzer": "french_light"
+          },
+          "raw": {
+            "type": "keyword",
+            "ignore_above": 32766
+          }
+        }
+      },
+      "has_attachments": {
+        "type": "boolean"
+      },
+      "mailbox_id": {
+        "type": "integer"
+      }
+    }
+  }
+}

@@ -1,0 +1,1849 @@
+{
+  "short_patterns": [
+    {
+      "text": "rue georges guynemer 33290 blanquefort",
+      "doc_count": 25402,
+      "score": 0.50804
+    },
+    {
+      "text": "21-24 rue georges guynemer 33290",
+      "doc_count": 17490,
+      "score": 0.3498
+    },
+    {
+      "text": "you are not the intended",
+      "doc_count": 16144,
+      "score": 0.32288
+    },
+    {
+      "text": "georges guynemer 33290 blanquefort -",
+      "doc_count": 15018,
+      "score": 0.30036
+    },
+    {
+      "text": "guynemer 33290 blanquefort - france",
+      "doc_count": 15018,
+      "score": 0.30036
+    },
+    {
+      "text": "are not the intended recipient",
+      "doc_count": 14259,
+      "score": 0.28518
+    },
+    {
+      "text": "the intended recipient of this",
+      "doc_count": 13919,
+      "score": 0.27838
+    },
+    {
+      "text": "not the intended recipient of",
+      "doc_count": 13917,
+      "score": 0.27834
+    },
+    {
+      "text": "information. if you are not",
+      "doc_count": 13616,
+      "score": 0.27232
+    },
+    {
+      "text": "the information in this e-mail",
+      "doc_count": 13549,
+      "score": 0.27098
+    },
+    {
+      "text": "is confidential and may contain",
+      "doc_count": 13527,
+      "score": 0.27054
+    },
+    {
+      "text": "message is confidential and may",
+      "doc_count": 13522,
+      "score": 0.27044
+    },
+    {
+      "text": "message. if you are not",
+      "doc_count": 13522,
+      "score": 0.27044
+    },
+    {
+      "text": "e-mail message is confidential and",
+      "doc_count": 13521,
+      "score": 0.27042
+    },
+    {
+      "text": "you are not named above",
+      "doc_count": 13521,
+      "score": 0.27042
+    },
+    {
+      "text": "are not named above as",
+      "doc_count": 13521,
+      "score": 0.27042
+    },
+    {
+      "text": "not named above as an",
+      "doc_count": 13521,
+      "score": 0.27042
+    },
+    {
+      "text": "named above as an addressee",
+      "doc_count": 13521,
+      "score": 0.27042
+    },
+    {
+      "text": "if you are not named",
+      "doc_count": 13519,
+      "score": 0.27038
+    },
+    {
+      "text": "to read, copy, distribute, disclose",
+      "doc_count": 13519,
+      "score": 0.27038
+    },
+    {
+      "text": "read, copy, distribute, disclose or",
+      "doc_count": 13519,
+      "score": 0.27038
+    },
+    {
+      "text": "in this e-mail message. if",
+      "doc_count": 13519,
+      "score": 0.27038
+    },
+    {
+      "text": "this e-mail message. if you",
+      "doc_count": 13519,
+      "score": 0.27038
+    },
+    {
+      "text": "e-mail message. if you are",
+      "doc_count": 13519,
+      "score": 0.27038
+    },
+    {
+      "text": "this e-mail message is confidential",
+      "doc_count": 13518,
+      "score": 0.27036
+    },
+    {
+      "text": "above as an addressee it",
+      "doc_count": 13518,
+      "score": 0.27036
+    },
+    {
+      "text": "as an addressee it may",
+      "doc_count": 13518,
+      "score": 0.27036
+    },
+    {
+      "text": "distribute, disclose or otherwise use",
+      "doc_count": 13518,
+      "score": 0.27036
+    },
+    {
+      "text": "confidential and may contain confidential",
+      "doc_count": 13517,
+      "score": 0.27034
+    },
+    {
+      "text": "an addressee it may be",
+      "doc_count": 13517,
+      "score": 0.27034
+    },
+    {
+      "text": "for you to read, copy,",
+      "doc_count": 13517,
+      "score": 0.27034
+    },
+    {
+      "text": "you to read, copy, distribute,",
+      "doc_count": 13517,
+      "score": 0.27034
+    },
+    {
+      "text": "copy, distribute, disclose or otherwise",
+      "doc_count": 13516,
+      "score": 0.27032
+    },
+    {
+      "text": "information in this e-mail message.",
+      "doc_count": 13516,
+      "score": 0.27032
+    },
+    {
+      "text": "recipient of this e-mail message,",
+      "doc_count": 13516,
+      "score": 0.27032
+    },
+    {
+      "text": "of this e-mail message, please",
+      "doc_count": 13516,
+      "score": 0.27032
+    },
+    {
+      "text": "e-mail message, please telephone or",
+      "doc_count": 13516,
+      "score": 0.27032
+    },
+    {
+      "text": "unlawful for you to read,",
+      "doc_count": 13514,
+      "score": 0.27028
+    },
+    {
+      "text": "this e-mail message, please telephone",
+      "doc_count": 13514,
+      "score": 0.27028
+    },
+    {
+      "text": "message, please telephone or e-mail",
+      "doc_count": 13514,
+      "score": 0.27028
+    },
+    {
+      "text": "please telephone or e-mail us",
+      "doc_count": 13514,
+      "score": 0.27028
+    },
+    {
+      "text": "addressee it may be unlawful",
+      "doc_count": 13511,
+      "score": 0.27022
+    },
+    {
+      "text": "it may be unlawful for",
+      "doc_count": 13511,
+      "score": 0.27022
+    },
+    {
+      "text": "may be unlawful for you",
+      "doc_count": 13511,
+      "score": 0.27022
+    },
+    {
+      "text": "disclose or otherwise use the",
+      "doc_count": 13511,
+      "score": 0.27022
+    },
+    {
+      "text": "be unlawful for you to",
+      "doc_count": 13510,
+      "score": 0.2702
+    },
+    {
+      "text": "or otherwise use the information",
+      "doc_count": 13510,
+      "score": 0.2702
+    },
+    {
+      "text": "intended recipient of this e-mail",
+      "doc_count": 13510,
+      "score": 0.2702
+    },
+    {
+      "text": "otherwise use the information in",
+      "doc_count": 13509,
+      "score": 0.27018
+    },
+    {
+      "text": "use the information in this",
+      "doc_count": 13509,
+      "score": 0.27018
+    },
+    {
+      "text": "confidential information. if you are",
+      "doc_count": 13507,
+      "score": 0.27014
+    },
+    {
+      "text": "and may contain confidential information.",
+      "doc_count": 13500,
+      "score": 0.27
+    },
+    {
+      "text": "may contain confidential information. if",
+      "doc_count": 13499,
+      "score": 0.26998
+    },
+    {
+      "text": "contain confidential information. if you",
+      "doc_count": 13499,
+      "score": 0.26998
+    },
+    {
+      "text": "par téléphone ou par courrier",
+      "doc_count": 13411,
+      "score": 0.26822
+    },
+    {
+      "text": "contenir des informations confidentielles. si",
+      "doc_count": 13409,
+      "score": 0.26818
+    },
+    {
+      "text": "des informations confidentielles. si vous",
+      "doc_count": 13409,
+      "score": 0.26818
+    },
+    {
+      "text": "peut contenir des informations confidentielles.",
+      "doc_count": 13407,
+      "score": 0.26814
+    },
+    {
+      "text": "et peut contenir des informations",
+      "doc_count": 13384,
+      "score": 0.26768
+    },
+    {
+      "text": "est confidentiel et peut contenir",
+      "doc_count": 13358,
+      "score": 0.26716
+    },
+    {
+      "text": "confidentiel et peut contenir des",
+      "doc_count": 13358,
+      "score": 0.26716
+    },
+    {
+      "text": "divulgation ou utilisation sont interdites",
+      "doc_count": 13357,
+      "score": 0.26714
+    },
+    {
+      "text": "ou utilisation sont interdites et",
+      "doc_count": 13357,
+      "score": 0.26714
+    },
+    {
+      "text": "distribution, divulgation ou utilisation sont",
+      "doc_count": 13356,
+      "score": 0.26712
+    },
+    {
+      "text": "copie, distribution, divulgation ou utilisation",
+      "doc_count": 13352,
+      "score": 0.26704
+    },
+    {
+      "text": "utilisation sont interdites et pourraient",
+      "doc_count": 13350,
+      "score": 0.267
+    },
+    {
+      "text": "pas destinataire, toute lecture, copie,",
+      "doc_count": 13348,
+      "score": 0.26696
+    },
+    {
+      "text": "lecture, copie, distribution, divulgation ou",
+      "doc_count": 13345,
+      "score": 0.2669
+    },
+    {
+      "text": "interdites et pourraient engager votre",
+      "doc_count": 13345,
+      "score": 0.2669
+    },
+    {
+      "text": "destinataire, toute lecture, copie, distribution,",
+      "doc_count": 13344,
+      "score": 0.26688
+    },
+    {
+      "text": "toute lecture, copie, distribution, divulgation",
+      "doc_count": 13344,
+      "score": 0.26688
+    },
+    {
+      "text": "sont interdites et pourraient engager",
+      "doc_count": 13344,
+      "score": 0.26688
+    },
+    {
+      "text": "êtes pas destinataire, toute lecture,",
+      "doc_count": 13319,
+      "score": 0.26638
+    },
+    {
+      "text": "au cas où vous recevriez",
+      "doc_count": 13319,
+      "score": 0.26638
+    },
+    {
+      "text": "cas où vous recevriez ce",
+      "doc_count": 13319,
+      "score": 0.26638
+    },
+    {
+      "text": "vous plaît nous contacter par",
+      "doc_count": 13319,
+      "score": 0.26638
+    },
+    {
+      "text": "nous contacter par téléphone ou",
+      "doc_count": 13315,
+      "score": 0.2663
+    },
+    {
+      "text": "plaît nous contacter par téléphone",
+      "doc_count": 13314,
+      "score": 0.26628
+    },
+    {
+      "text": "contacter par téléphone ou par",
+      "doc_count": 13314,
+      "score": 0.26628
+    },
+    {
+      "text": "téléphone ou par courrier électronique.",
+      "doc_count": 13312,
+      "score": 0.26624
+    },
+    {
+      "text": "responsabilité. au cas où vous",
+      "doc_count": 13311,
+      "score": 0.26622
+    },
+    {
+      "text": "engager votre responsabilité. au cas",
+      "doc_count": 13310,
+      "score": 0.2662
+    },
+    {
+      "text": "votre responsabilité. au cas où",
+      "doc_count": 13309,
+      "score": 0.26618
+    },
+    {
+      "text": "pourraient engager votre responsabilité. au",
+      "doc_count": 13306,
+      "score": 0.26612
+    },
+    {
+      "text": "et pourraient engager votre responsabilité.",
+      "doc_count": 13301,
+      "score": 0.26602
+    },
+    {
+      "text": "ce courriel par erreur, veuillez",
+      "doc_count": 13123,
+      "score": 0.26246
+    },
+    {
+      "text": ": lioret david envoyé :",
+      "doc_count": 13088,
+      "score": 0.26176
+    },
+    {
+      "text": "de : lioret david envoyé",
+      "doc_count": 13087,
+      "score": 0.26174
+    },
+    {
+      "text": "courriel est confidentiel et peut",
+      "doc_count": 13039,
+      "score": 0.26078
+    },
+    {
+      "text": "ce courriel est confidentiel et",
+      "doc_count": 13037,
+      "score": 0.26074
+    },
+    {
+      "text": "recevriez ce courriel par erreur,",
+      "doc_count": 13028,
+      "score": 0.26056
+    },
+    {
+      "text": "vous recevriez ce courriel par",
+      "doc_count": 13026,
+      "score": 0.26052
+    },
+    {
+      "text": "où vous recevriez ce courriel",
+      "doc_count": 12995,
+      "score": 0.2599
+    },
+    {
+      "text": "si vous n’en êtes pas",
+      "doc_count": 12955,
+      "score": 0.2591
+    },
+    {
+      "text": "vous n’en êtes pas destinataire,",
+      "doc_count": 12954,
+      "score": 0.25908
+    },
+    {
+      "text": "n’en êtes pas destinataire, toute",
+      "doc_count": 12954,
+      "score": 0.25908
+    },
+    {
+      "text": "erreur, veuillez s’il vous plaît",
+      "doc_count": 12953,
+      "score": 0.25906
+    },
+    {
+      "text": "veuillez s’il vous plaît nous",
+      "doc_count": 12953,
+      "score": 0.25906
+    },
+    {
+      "text": "s’il vous plaît nous contacter",
+      "doc_count": 12953,
+      "score": 0.25906
+    },
+    {
+      "text": "courriel par erreur, veuillez s’il",
+      "doc_count": 12951,
+      "score": 0.25902
+    }
+  ],
+  "long_patterns": [
+    {
+      "text": "you are not named above as an addressee it may",
+      "doc_count": 13518,
+      "score": 0.27036
+    },
+    {
+      "text": "are not named above as an addressee it may be",
+      "doc_count": 13517,
+      "score": 0.27034
+    },
+    {
+      "text": "if you are not named above as an addressee it",
+      "doc_count": 13516,
+      "score": 0.27032
+    },
+    {
+      "text": "in this e-mail message. if you are not the intended",
+      "doc_count": 13516,
+      "score": 0.27032
+    },
+    {
+      "text": "for you to read, copy, distribute, disclose or otherwise use",
+      "doc_count": 13514,
+      "score": 0.27028
+    },
+    {
+      "text": "the information in this e-mail message. if you are not",
+      "doc_count": 13514,
+      "score": 0.27028
+    },
+    {
+      "text": "information in this e-mail message. if you are not the",
+      "doc_count": 13513,
+      "score": 0.27026
+    },
+    {
+      "text": "not named above as an addressee it may be unlawful",
+      "doc_count": 13511,
+      "score": 0.27022
+    },
+    {
+      "text": "unlawful for you to read, copy, distribute, disclose or otherwise",
+      "doc_count": 13511,
+      "score": 0.27022
+    },
+    {
+      "text": "information. if you are not named above as an addressee",
+      "doc_count": 13510,
+      "score": 0.2702
+    },
+    {
+      "text": "this e-mail message. if you are not the intended recipient",
+      "doc_count": 13509,
+      "score": 0.27018
+    },
+    {
+      "text": "recipient of this e-mail message, please telephone or e-mail us",
+      "doc_count": 13509,
+      "score": 0.27018
+    },
+    {
+      "text": "named above as an addressee it may be unlawful for",
+      "doc_count": 13508,
+      "score": 0.27016
+    },
+    {
+      "text": "above as an addressee it may be unlawful for you",
+      "doc_count": 13508,
+      "score": 0.27016
+    },
+    {
+      "text": "be unlawful for you to read, copy, distribute, disclose or",
+      "doc_count": 13508,
+      "score": 0.27016
+    },
+    {
+      "text": "it may be unlawful for you to read, copy, distribute,",
+      "doc_count": 13507,
+      "score": 0.27014
+    },
+    {
+      "text": "may be unlawful for you to read, copy, distribute, disclose",
+      "doc_count": 13507,
+      "score": 0.27014
+    },
+    {
+      "text": "you to read, copy, distribute, disclose or otherwise use the",
+      "doc_count": 13507,
+      "score": 0.27014
+    },
+    {
+      "text": "to read, copy, distribute, disclose or otherwise use the information",
+      "doc_count": 13507,
+      "score": 0.27014
+    },
+    {
+      "text": "otherwise use the information in this e-mail message. if you",
+      "doc_count": 13507,
+      "score": 0.27014
+    },
+    {
+      "text": "use the information in this e-mail message. if you are",
+      "doc_count": 13507,
+      "score": 0.27014
+    },
+    {
+      "text": "e-mail message. if you are not the intended recipient of",
+      "doc_count": 13507,
+      "score": 0.27014
+    },
+    {
+      "text": "message. if you are not the intended recipient of this",
+      "doc_count": 13507,
+      "score": 0.27014
+    },
+    {
+      "text": "if you are not the intended recipient of this e-mail",
+      "doc_count": 13507,
+      "score": 0.27014
+    },
+    {
+      "text": "as an addressee it may be unlawful for you to",
+      "doc_count": 13506,
+      "score": 0.27012
+    },
+    {
+      "text": "you are not the intended recipient of this e-mail message,",
+      "doc_count": 13506,
+      "score": 0.27012
+    },
+    {
+      "text": "the intended recipient of this e-mail message, please telephone or",
+      "doc_count": 13505,
+      "score": 0.2701
+    },
+    {
+      "text": "an addressee it may be unlawful for you to read,",
+      "doc_count": 13504,
+      "score": 0.27008
+    },
+    {
+      "text": "addressee it may be unlawful for you to read, copy,",
+      "doc_count": 13504,
+      "score": 0.27008
+    },
+    {
+      "text": "read, copy, distribute, disclose or otherwise use the information in",
+      "doc_count": 13504,
+      "score": 0.27008
+    },
+    {
+      "text": "copy, distribute, disclose or otherwise use the information in this",
+      "doc_count": 13504,
+      "score": 0.27008
+    },
+    {
+      "text": "distribute, disclose or otherwise use the information in this e-mail",
+      "doc_count": 13504,
+      "score": 0.27008
+    },
+    {
+      "text": "disclose or otherwise use the information in this e-mail message.",
+      "doc_count": 13504,
+      "score": 0.27008
+    },
+    {
+      "text": "or otherwise use the information in this e-mail message. if",
+      "doc_count": 13504,
+      "score": 0.27008
+    },
+    {
+      "text": "are not the intended recipient of this e-mail message, please",
+      "doc_count": 13504,
+      "score": 0.27008
+    },
+    {
+      "text": "not the intended recipient of this e-mail message, please telephone",
+      "doc_count": 13502,
+      "score": 0.27004
+    },
+    {
+      "text": "intended recipient of this e-mail message, please telephone or e-mail",
+      "doc_count": 13502,
+      "score": 0.27004
+    },
+    {
+      "text": "confidential information. if you are not named above as an",
+      "doc_count": 13501,
+      "score": 0.27002
+    },
+    {
+      "text": "this e-mail message is confidential and may contain confidential information.",
+      "doc_count": 13499,
+      "score": 0.26998
+    },
+    {
+      "text": "e-mail message is confidential and may contain confidential information. if",
+      "doc_count": 13497,
+      "score": 0.26994
+    },
+    {
+      "text": "message is confidential and may contain confidential information. if you",
+      "doc_count": 13497,
+      "score": 0.26994
+    },
+    {
+      "text": "is confidential and may contain confidential information. if you are",
+      "doc_count": 13497,
+      "score": 0.26994
+    },
+    {
+      "text": "confidential and may contain confidential information. if you are not",
+      "doc_count": 13497,
+      "score": 0.26994
+    },
+    {
+      "text": "and may contain confidential information. if you are not named",
+      "doc_count": 13497,
+      "score": 0.26994
+    },
+    {
+      "text": "may contain confidential information. if you are not named above",
+      "doc_count": 13497,
+      "score": 0.26994
+    },
+    {
+      "text": "contain confidential information. if you are not named above as",
+      "doc_count": 13497,
+      "score": 0.26994
+    },
+    {
+      "text": "pas destinataire, toute lecture, copie, distribution, divulgation ou utilisation sont",
+      "doc_count": 13344,
+      "score": 0.26688
+    },
+    {
+      "text": "destinataire, toute lecture, copie, distribution, divulgation ou utilisation sont interdites",
+      "doc_count": 13344,
+      "score": 0.26688
+    },
+    {
+      "text": "toute lecture, copie, distribution, divulgation ou utilisation sont interdites et",
+      "doc_count": 13344,
+      "score": 0.26688
+    },
+    {
+      "text": "lecture, copie, distribution, divulgation ou utilisation sont interdites et pourraient",
+      "doc_count": 13344,
+      "score": 0.26688
+    },
+    {
+      "text": "copie, distribution, divulgation ou utilisation sont interdites et pourraient engager",
+      "doc_count": 13344,
+      "score": 0.26688
+    },
+    {
+      "text": "distribution, divulgation ou utilisation sont interdites et pourraient engager votre",
+      "doc_count": 13344,
+      "score": 0.26688
+    },
+    {
+      "text": "est confidentiel et peut contenir des informations confidentielles. si vous",
+      "doc_count": 13338,
+      "score": 0.26676
+    },
+    {
+      "text": "êtes pas destinataire, toute lecture, copie, distribution, divulgation ou utilisation",
+      "doc_count": 13308,
+      "score": 0.26616
+    },
+    {
+      "text": "vous plaît nous contacter par téléphone ou par courrier électronique.",
+      "doc_count": 13307,
+      "score": 0.26614
+    },
+    {
+      "text": "pourraient engager votre responsabilité. au cas où vous recevriez ce",
+      "doc_count": 13305,
+      "score": 0.2661
+    },
+    {
+      "text": "divulgation ou utilisation sont interdites et pourraient engager votre responsabilité.",
+      "doc_count": 13301,
+      "score": 0.26602
+    },
+    {
+      "text": "ou utilisation sont interdites et pourraient engager votre responsabilité. au",
+      "doc_count": 13301,
+      "score": 0.26602
+    },
+    {
+      "text": "utilisation sont interdites et pourraient engager votre responsabilité. au cas",
+      "doc_count": 13301,
+      "score": 0.26602
+    },
+    {
+      "text": "sont interdites et pourraient engager votre responsabilité. au cas où",
+      "doc_count": 13300,
+      "score": 0.266
+    },
+    {
+      "text": "interdites et pourraient engager votre responsabilité. au cas où vous",
+      "doc_count": 13300,
+      "score": 0.266
+    },
+    {
+      "text": "et pourraient engager votre responsabilité. au cas où vous recevriez",
+      "doc_count": 13300,
+      "score": 0.266
+    },
+    {
+      "text": "ce courriel est confidentiel et peut contenir des informations confidentielles.",
+      "doc_count": 13019,
+      "score": 0.26038
+    },
+    {
+      "text": "courriel est confidentiel et peut contenir des informations confidentielles. si",
+      "doc_count": 13019,
+      "score": 0.26038
+    },
+    {
+      "text": "au cas où vous recevriez ce courriel par erreur, veuillez",
+      "doc_count": 12989,
+      "score": 0.25978
+    },
+    {
+      "text": "engager votre responsabilité. au cas où vous recevriez ce courriel",
+      "doc_count": 12985,
+      "score": 0.2597
+    },
+    {
+      "text": "votre responsabilité. au cas où vous recevriez ce courriel par",
+      "doc_count": 12985,
+      "score": 0.2597
+    },
+    {
+      "text": "responsabilité. au cas où vous recevriez ce courriel par erreur,",
+      "doc_count": 12983,
+      "score": 0.25966
+    },
+    {
+      "text": "courriel par erreur, veuillez s’il vous plaît nous contacter par",
+      "doc_count": 12949,
+      "score": 0.25898
+    },
+    {
+      "text": "erreur, veuillez s’il vous plaît nous contacter par téléphone ou",
+      "doc_count": 12948,
+      "score": 0.25896
+    },
+    {
+      "text": "veuillez s’il vous plaît nous contacter par téléphone ou par",
+      "doc_count": 12948,
+      "score": 0.25896
+    },
+    {
+      "text": "s’il vous plaît nous contacter par téléphone ou par courrier",
+      "doc_count": 12945,
+      "score": 0.2589
+    },
+    {
+      "text": "vous recevriez ce courriel par erreur, veuillez s’il vous plaît",
+      "doc_count": 12944,
+      "score": 0.25888
+    },
+    {
+      "text": "recevriez ce courriel par erreur, veuillez s’il vous plaît nous",
+      "doc_count": 12944,
+      "score": 0.25888
+    },
+    {
+      "text": "ce courriel par erreur, veuillez s’il vous plaît nous contacter",
+      "doc_count": 12944,
+      "score": 0.25888
+    },
+    {
+      "text": "par erreur, veuillez s’il vous plaît nous contacter par téléphone",
+      "doc_count": 12944,
+      "score": 0.25888
+    },
+    {
+      "text": "si vous n’en êtes pas destinataire, toute lecture, copie, distribution,",
+      "doc_count": 12943,
+      "score": 0.25886
+    },
+    {
+      "text": "vous n’en êtes pas destinataire, toute lecture, copie, distribution, divulgation",
+      "doc_count": 12943,
+      "score": 0.25886
+    },
+    {
+      "text": "n’en êtes pas destinataire, toute lecture, copie, distribution, divulgation ou",
+      "doc_count": 12943,
+      "score": 0.25886
+    },
+    {
+      "text": "cas où vous recevriez ce courriel par erreur, veuillez s’il",
+      "doc_count": 12943,
+      "score": 0.25886
+    },
+    {
+      "text": "où vous recevriez ce courriel par erreur, veuillez s’il vous",
+      "doc_count": 12943,
+      "score": 0.25886
+    },
+    {
+      "text": "confidentielles. si vous n’en êtes pas destinataire, toute lecture, copie,",
+      "doc_count": 12941,
+      "score": 0.25882
+    },
+    {
+      "text": "confidentiel et peut contenir des informations confidentielles. si vous n’en",
+      "doc_count": 12940,
+      "score": 0.2588
+    },
+    {
+      "text": "et peut contenir des informations confidentielles. si vous n’en êtes",
+      "doc_count": 12937,
+      "score": 0.25874
+    },
+    {
+      "text": "peut contenir des informations confidentielles. si vous n’en êtes pas",
+      "doc_count": 12937,
+      "score": 0.25874
+    },
+    {
+      "text": "contenir des informations confidentielles. si vous n’en êtes pas destinataire,",
+      "doc_count": 12937,
+      "score": 0.25874
+    },
+    {
+      "text": "des informations confidentielles. si vous n’en êtes pas destinataire, toute",
+      "doc_count": 12937,
+      "score": 0.25874
+    },
+    {
+      "text": "informations confidentielles. si vous n’en êtes pas destinataire, toute lecture,",
+      "doc_count": 12937,
+      "score": 0.25874
+    },
+    {
+      "text": "courrier électronique. this e-mail message is confidential and may contain",
+      "doc_count": 12918,
+      "score": 0.25836
+    },
+    {
+      "text": "plaît nous contacter par téléphone ou par courrier électronique. this",
+      "doc_count": 12917,
+      "score": 0.25834
+    },
+    {
+      "text": "nous contacter par téléphone ou par courrier électronique. this e-mail",
+      "doc_count": 12917,
+      "score": 0.25834
+    },
+    {
+      "text": "contacter par téléphone ou par courrier électronique. this e-mail message",
+      "doc_count": 12917,
+      "score": 0.25834
+    },
+    {
+      "text": "par téléphone ou par courrier électronique. this e-mail message is",
+      "doc_count": 12917,
+      "score": 0.25834
+    },
+    {
+      "text": "téléphone ou par courrier électronique. this e-mail message is confidential",
+      "doc_count": 12917,
+      "score": 0.25834
+    },
+    {
+      "text": "ou par courrier électronique. this e-mail message is confidential and",
+      "doc_count": 12917,
+      "score": 0.25834
+    },
+    {
+      "text": "par courrier électronique. this e-mail message is confidential and may",
+      "doc_count": 12917,
+      "score": 0.25834
+    },
+    {
+      "text": "électronique. this e-mail message is confidential and may contain confidential",
+      "doc_count": 12917,
+      "score": 0.25834
+    },
+    {
+      "text": "avant de cliquer sur un lien ou d’ouvrir une pièce",
+      "doc_count": 9830,
+      "score": 0.1966
+    },
+    {
+      "text": "de cliquer sur un lien ou d’ouvrir une pièce jointe.",
+      "doc_count": 9830,
+      "score": 0.1966
+    },
+    {
+      "text": "message externe : soyez sûr de connaître l’expéditeur avant de",
+      "doc_count": 9819,
+      "score": 0.19638
+    }
+  ],
+  "line_patterns": [
+    {
+      "text": "________________________________",
+      "doc_count": 18830
+    },
+    {
+      "text": "21-24 rue Georges Guynemer",
+      "doc_count": 14202
+    },
+    {
+      "text": "Ce courriel est confidentiel et peut contenir des informations confidentielles. Si vous n’en êtes pas destinataire, toute lecture, copie, distribution, divulgation ou utilisation sont interdites et pourraient engager votre responsabilité. Au cas où vous recevriez ce courriel par erreur, veuillez s’il vous plaît nous contacter par téléphone ou par courrier électronique.",
+      "doc_count": 12781
+    },
+    {
+      "text": "33290 Blanquefort - France",
+      "doc_count": 11711
+    },
+    {
+      "text": "MESSAGE EXTERNE : soyez sûr de connaître l’expéditeur avant de cliquer sur un lien ou d’ouvrir une pièce jointe.",
+      "doc_count": 9453
+    },
+    {
+      "text": "De : COSTES (FORET) Valérie",
+      "doc_count": 8301
+    },
+    {
+      "text": "This e-mail message is confidential and may contain confidential information. If you are not named above as an addressee it may be unlawful for you to read, copy, distribute, disclose or otherwise use the information in this e-mail message. If you are not the intended recipient of this e-mail message, please telephone or e-mail us immediately.",
+      "doc_count": 8158
+    },
+    {
+      "text": "À : CANESSON Christophe",
+      "doc_count": 7428
+    },
+    {
+      "text": "Contrôleur de gestion groupe",
+      "doc_count": 7376
+    },
+    {
+      "text": "Mobile : +33 6 15 62 56 70",
+      "doc_count": 7158
+    },
+    {
+      "text": "Tél : +33 5 56 35 72 69",
+      "doc_count": 7156
+    },
+    {
+      "text": "christophe.canesson@vins-castel.wine",
+      "doc_count": 7150
+    },
+    {
+      "text": "À : ABRIVAT Dominique",
+      "doc_count": 7123
+    },
+    {
+      "text": "http://www.groupe-castel.com/signature/logo80.png",
+      "doc_count": 7017
+    },
+    {
+      "text": "À : COSTES (FORET) Valérie",
+      "doc_count": 6950
+    },
+    {
+      "text": "-------- Message d'origine --------",
+      "doc_count": 6577
+    },
+    {
+      "text": "Email : dominique.abrivat@vins-castel.wine",
+      "doc_count": 5990
+    },
+    {
+      "text": "De : ABRIVAT Dominique",
+      "doc_count": 5695
+    },
+    {
+      "text": "Mobile : 06.18.64.05.63",
+      "doc_count": 5654
+    },
+    {
+      "text": "Bureau : 05.56.95.54.13",
+      "doc_count": 5653
+    },
+    {
+      "text": "Fax         : 05.56.35.72.90",
+      "doc_count": 5641
+    },
+    {
+      "text": ">; De WOEWODSKY Eymeric",
+      "doc_count": 5128
+    },
+    {
+      "text": "This e-mail message is confidential and may contain confidential information. If you are not named above as an addressee it may be unlawful for you to read, copy, distribute, disclose or otherwise use the information in this e-mail message. If you are not the intended recipient of this e-mail message, please telephone or e-mail us immediately",
+      "doc_count": 5050
+    },
+    {
+      "text": "De : CANESSON Christophe",
+      "doc_count": 4177
+    },
+    {
+      "text": "24 rue Georges Guynemer 33290 Blanquefort – France",
+      "doc_count": 4090
+    },
+    {
+      "text": "Mobile : +33 7 61 18 22 79",
+      "doc_count": 3982
+    },
+    {
+      "text": "Email : valerie.costes@vins-castel.wine",
+      "doc_count": 3982
+    },
+    {
+      "text": "Envoyé depuis mon smartphone",
+      "doc_count": 3903
+    },
+    {
+      "text": "valerie.costes@vins-castel.wine",
+      "doc_count": 3761
+    },
+    {
+      "text": "21-24 rue Georges GUYNEMER",
+      "doc_count": 3295
+    },
+    {
+      "text": "33290 BLANQUEFORT - France",
+      "doc_count": 3294
+    },
+    {
+      "text": "-----Message d'origine-----",
+      "doc_count": 3240
+    },
+    {
+      "text": "21 - 24 rue Georges Guynemer",
+      "doc_count": 3097
+    },
+    {
+      "text": "Tél. : mobile +33 (0)6 26 05 36 12",
+      "doc_count": 2968
+    },
+    {
+      "text": "Tél. :+33 (0)5 56 95 54 27",
+      "doc_count": 2965
+    },
+    {
+      "text": "Site web : www.vins-castel.wine",
+      "doc_count": 2911
+    },
+    {
+      "text": "Fax  :  05.56.95.54.20",
+      "doc_count": 2819
+    },
+    {
+      "text": "d.abrivat@castel-freres.com",
+      "doc_count": 2693
+    },
+    {
+      "text": "Tél. bureau  :  05.56.35.72.69",
+      "doc_count": 2491
+    },
+    {
+      "text": "Tél. mobile  :  06.15.62.56.70",
+      "doc_count": 2490
+    },
+    {
+      "text": "Courriel : david.lioret@vins-castel.wine",
+      "doc_count": 2470
+    },
+    {
+      "text": "Cc : ABRIVAT Dominique",
+      "doc_count": 2422
+    },
+    {
+      "text": "Cc : CANESSON Christophe",
+      "doc_count": 2072
+    },
+    {
+      "text": "Envoyé depuis mon smartphone Samsung Galaxy.",
+      "doc_count": 2054
+    },
+    {
+      "text": ">; CANESSON Christophe",
+      "doc_count": 2000
+    },
+    {
+      "text": "Contrôleur de Gestion",
+      "doc_count": 1761
+    },
+    {
+      "text": "GIDE LOYRETTE NOUEL A.A.R.P.I.",
+      "doc_count": 1697
+    },
+    {
+      "text": "dominique.abrivat@vins-castel.wine",
+      "doc_count": 1674
+    },
+    {
+      "text": "www.barton-guestier.com",
+      "doc_count": 1512
+    },
+    {
+      "text": ">; COSTES (FORET) Valérie",
+      "doc_count": 1455
+    },
+    {
+      "text": "Objet : RE: ELO Castel Frères - Précisions sur les droits et la gestion des utilisateurs",
+      "doc_count": 1352
+    },
+    {
+      "text": "; CANESSON Christophe",
+      "doc_count": 1346
+    },
+    {
+      "text": "Objet : RE: Intégration Château Cavalier",
+      "doc_count": 1311
+    },
+    {
+      "text": "15 rue de Laborde | 75008 Paris | France",
+      "doc_count": 1270
+    },
+    {
+      "text": "v.foret@castel-freres.com",
+      "doc_count": 1261
+    },
+    {
+      "text": "Cc : De WOEWODSKY Eymeric",
+      "doc_count": 1218
+    },
+    {
+      "text": "www.castel-freres.com",
+      "doc_count": 1200
+    },
+    {
+      "text": "www.adoc-solutions.eu",
+      "doc_count": 1185
+    },
+    {
+      "text": "-------------------------",
+      "doc_count": 1168
+    },
+    {
+      "text": "This e-mail is sent by a law firm and may contain information that is privileged or confidential. If you are not the intended recipient, please delete this e-mail and any attachments and notify us immediately.",
+      "doc_count": 1149
+    },
+    {
+      "text": "Mobile : 06.15.62.56.70",
+      "doc_count": 1148
+    },
+    {
+      "text": "Ce message provient d’un cabinet d’avocats et contient des informations confidentielles protégées par le secret professionnel. Au cas où il ne vous serait pas destiné, nous vous remercions de bien vouloir nous en aviser immédiatement et de le supprimer.",
+      "doc_count": 1143
+    },
+    {
+      "text": "Date / Date \tNom de l'expéditeur / Sender\t Objet / Subject\t Taille / Size",
+      "doc_count": 1138
+    },
+    {
+      "text": "david.lioret@vins-castel.wine",
+      "doc_count": 1114
+    },
+    {
+      "text": "Objet : RE: [SAVOUR] Export de facture - URGENT",
+      "doc_count": 1027
+    },
+    {
+      "text": "LinkedIn : CastelFrères",
+      "doc_count": 1007
+    },
+    {
+      "text": "Merci pour votre retour.",
+      "doc_count": 995
+    },
+    {
+      "text": "1 rue de la Pierre Anne",
+      "doc_count": 978
+    },
+    {
+      "text": "www.castel-afrique.com",
+      "doc_count": 977
+    },
+    {
+      "text": "1 Rue de La Pierre Anne",
+      "doc_count": 929
+    },
+    {
+      "text": "Développeur Informatique TMA",
+      "doc_count": 917
+    },
+    {
+      "text": "Tél : + 33 2 28 21 06 06",
+      "doc_count": 917
+    },
+    {
+      "text": "y.petit@adoc-solutions.eu",
+      "doc_count": 907
+    },
+    {
+      "text": "Courriel : d.abrivat@castel-freres.com",
+      "doc_count": 907
+    },
+    {
+      "text": "Meilleures Salutations",
+      "doc_count": 877
+    },
+    {
+      "text": "Développement informatique",
+      "doc_count": 870
+    },
+    {
+      "text": "Château Magnol – 87 rue du Dehez",
+      "doc_count": 832
+    },
+    {
+      "text": "J’espère que vous allez bien.",
+      "doc_count": 823
+    },
+    {
+      "text": "78 route de Challanges",
+      "doc_count": 770
+    },
+    {
+      "text": "F-33290 BLANQUEFORT -FRANCE",
+      "doc_count": 767
+    },
+    {
+      "text": "vanessa.zangari@vins-castel.wine",
+      "doc_count": 760
+    },
+    {
+      "text": "-------------------------------------------------------------------",
+      "doc_count": 756
+    },
+    {
+      "text": "Objet : RE: Offre [GLN-PAR.004466.C.004466.0004]",
+      "doc_count": 755
+    },
+    {
+      "text": "Ce message et les pièces qui y sont éventuellement jointes sont soumis à des règles précisées sur notre site web : http://www.mazars.fr/disclaimer",
+      "doc_count": 709
+    },
+    {
+      "text": "This e-mail and any attachments are subject to a disclaimer which is available on our website: http://www.mazars.fr/disclaimer",
+      "doc_count": 709
+    },
+    {
+      "text": "Objet : RE: Point Castel Frères Tests Caves Arcins / Monein et Montlabert",
+      "doc_count": 707
+    },
+    {
+      "text": "Gide Loyrette Nouel ne peut être tenu responsable en cas de modification d’un message électronique ou d’une pièce jointe sans son accord écrit. Gide Loyrette Nouel A.A.R.P.I. fait partie de Gide Loyrette Nouel, un cabinet d’avocats international ayant ses bureaux à Alger, Bruxelles, Casablanca, Istanbul, Londres, New York, Paris, Pékin, Shanghai, Tunis et Varsovie. Une liste des associés de chaque bureau vous sera fournie sur demande.",
+      "doc_count": 701
+    },
+    {
+      "text": "Tél : 02 28 21 06 06 - www.adoc-solutions.eu",
+      "doc_count": 694
+    },
+    {
+      "text": "De : Gwenaël LE BOUDEC",
+      "doc_count": 646
+    },
+    {
+      "text": "De : De WOEWODSKY Eymeric",
+      "doc_count": 639
+    },
+    {
+      "text": "T +33 (0)1 40 75 36 51 | M +33 (0)6 68 26 15 96",
+      "doc_count": 633
+    },
+    {
+      "text": "Gestionnaire Paie et Ressources Humaines",
+      "doc_count": 619
+    },
+    {
+      "text": "fabienne.savary@vins-castel.wine",
+      "doc_count": 615
+    },
+    {
+      "text": "=========================================================",
+      "doc_count": 612
+    },
+    {
+      "text": "charles.terdjman@gide.com",
+      "doc_count": 612
+    },
+    {
+      "text": "Gide Loyrette Nouel is not liable if an e-mail or attachment is altered without its written consent. Gide Loyrette Nouel A.A.R.P.I. is part of Gide Loyrette Nouel, an international law firm, with offices in Algiers, Beijing, Brussels, Casablanca, Istanbul, London, New York, Paris, Shanghai,  Tunis and Warsaw. A list of partners at each office can be provided upon request.",
+      "doc_count": 597
+    },
+    {
+      "text": "Cc : COSTES (FORET) Valérie",
+      "doc_count": 595
+    },
+    {
+      "text": ">; Gestionnaire AS400",
+      "doc_count": 594
+    },
+    {
+      "text": "Eymeric.DeWoewodsky@vins-castel.wine",
+      "doc_count": 591
+    },
+    {
+      "text": "Comptabilité Castel Frères Siège",
+      "doc_count": 581
+    }
+  ],
+  "disclaimer_patterns": [
+    {
+      "text": "Ce courriel est confidentiel et peut contenir des informations confidentielles. Si vous n’en êtes pas destinataire, toute lecture, copie, distribution, divulgation ou utilisation sont interdites et pourraient engager votre responsabilité. Au cas où vous recevriez ce courriel par erreur, veuillez s’il vous plaît nous contacter par téléphone ou par courrier électronique.",
+      "doc_count": 12781,
+      "score": 1.0
+    },
+    {
+      "text": "This e-mail message is confidential and may contain confidential information. If you are not named above as an addressee it may be unlawful for you to read, copy, distribute, disclose or otherwise use the information in this e-mail message. If you are not the intended recipient of this e-mail message, please telephone or e-mail us immediately.",
+      "doc_count": 8158,
+      "score": 1.0
+    },
+    {
+      "text": "This e-mail message is confidential and may contain confidential information. If you are not named above as an addressee it may be unlawful for you to read, copy, distribute, disclose or otherwise use the information in this e-mail message. If you are not the intended recipient of this e-mail message, please telephone or e-mail us immediately",
+      "doc_count": 5050,
+      "score": 1.0
+    },
+    {
+      "text": "This e-mail is sent by a law firm and may contain information that is privileged or confidential. If you are not the intended recipient, please delete this e-mail and any attachments and notify us immediately.",
+      "doc_count": 1149,
+      "score": 1.0
+    },
+    {
+      "text": "Ce message provient d’un cabinet d’avocats et contient des informations confidentielles protégées par le secret professionnel. Au cas où il ne vous serait pas destiné, nous vous remercions de bien vouloir nous en aviser immédiatement et de le supprimer.",
+      "doc_count": 1143,
+      "score": 1.0
+    },
+    {
+      "text": "Ce message et les pièces qui y sont éventuellement jointes sont soumis à des règles précisées sur notre site web : http://www.mazars.fr/disclaimer",
+      "doc_count": 709,
+      "score": 1.0
+    },
+    {
+      "text": "This e-mail and any attachments are subject to a disclaimer which is available on our website: http://www.mazars.fr/disclaimer",
+      "doc_count": 709,
+      "score": 1.0
+    },
+    {
+      "text": "Cet email et tous les fichiers qui l'accompagnent sont confidentiels et destinés uniquement à l'usage de la personne physique ou morale à laquelle ils sont adressés.",
+      "doc_count": 400,
+      "score": 1.0
+    },
+    {
+      "text": "Ce message est confidentiel et peut contenir des informations confidentielles. Si vous n'en êtes pas destinataire, toute lecture, copie, distribution, divulgation ou utilisation sont interdites et pourraient engager votre responsabilité. Au cas où vous recevriez ce message par erreur, veuillez s'il vous plaît nous contacter par téléphone ou par courrier électronique.",
+      "doc_count": 315,
+      "score": 1.0
+    },
+    {
+      "text": "Disclaimer -The most recent general conditions of Groupe LFE (also trading under the name LFE) apply to all quotes, proposals, orders and agreements. These most recent general conditions are filed at the Chamber of Commerce in Utrecht under number 30072113 and can be found and downloaded on www.lfe.nl",
+      "doc_count": 313,
+      "score": 1.0
+    },
+    {
+      "text": "intended solely for the intended addressees and is confidential.",
+      "doc_count": 239,
+      "score": 1.0
+    },
+    {
+      "text": "If you receive this message in error,or are not the intended recipient(s),",
+      "doc_count": 239,
+      "score": 1.0
+    },
+    {
+      "text": "the sender. Any unauthorized view, use that does not comply with its purpose,",
+      "doc_count": 239,
+      "score": 1.0
+    },
+    {
+      "text": "sont etablis a l'intention exclusive de ses destinataires et sont confidentiels.",
+      "doc_count": 238,
+      "score": 1.0
+    },
+    {
+      "text": "ce message qui n'est pas conforme a sa destination, toute diffusion ou toute",
+      "doc_count": 238,
+      "score": 1.0
+    },
+    {
+      "text": "The integrity of this message cannot be guaranteed on the Internet. Natixis cannot therefore be considered responsible for the contents. Any unauthorized use or dissemination is",
+      "doc_count": 230,
+      "score": 1.0
+    },
+    {
+      "text": "sont confidentiels et susceptibles de contenir des informations",
+      "doc_count": 204,
+      "score": 1.0
+    },
+    {
+      "text": "This message and any attachments (the \"message\") are confidential,",
+      "doc_count": 204,
+      "score": 1.0
+    },
+    {
+      "text": "a l'intention exclusive de ses destinataires. Toute utilisation",
+      "doc_count": 200,
+      "score": 1.0
+    },
+    {
+      "text": "ou diffusion non autorisee interdite.",
+      "doc_count": 200,
+      "score": 1.0
+    },
+    {
+      "text": "Do not print this message unless it is necessary, consider the environment.",
+      "doc_count": 183,
+      "score": 1.0
+    },
+    {
+      "text": "https://www.natixis.com/natixis/upload/docs/application/pdf/2017-09/disclaimer.pdf",
+      "doc_count": 166,
+      "score": 1.0
+    },
+    {
+      "text": "http://www.mazars.fr/disclaimer",
+      "doc_count": 159,
+      "score": 1.0
+    },
+    {
+      "text": "information. Any unauthorized use or dissemination is prohibited.",
+      "doc_count": 157,
+      "score": 1.0
+    },
+    {
+      "text": "prohibited. If you are not the intended recipient of this message, please delete it and notify the sender. According to privacy laws to which Natixis may be subject, the rights relating to the personal data you may benefit from are described in the information notice available on our website",
+      "doc_count": 130,
+      "score": 1.0
+    },
+    {
+      "text": "STATEMENT OF CONFIDENTIALITY: The information contained in this email message and any attachments may be confidential and legally privileged and is intended for the use of the addressee(s) only. If you are not an intended recipient, please: (1) notify me immediately by replying to this message; (2) do not use, disseminate, distribute, or reproduce any part of the message or any attachment; and (3) destroy all copies of this message and any attachments.",
+      "doc_count": 129,
+      "score": 1.0
+    },
+    {
+      "text": "This e-mail and any attachments are subject to a disclaimer which is available on our website:",
+      "doc_count": 120,
+      "score": 1.0
+    },
+    {
+      "text": "Le contenu de cet email invite à transmettre des informations confidentielles ou à réaliser des actions à risque.",
+      "doc_count": 120,
+      "score": 1.0
+    },
+    {
+      "text": "Ce message et toutes les pièces jointes sont confidentiels et établis à l'intention exclusive",
+      "doc_count": 115,
+      "score": 1.0
+    },
+    {
+      "text": "de son ou ses destinataires. Si vous avez reçu ce message par erreur, merci d'en avertir",
+      "doc_count": 115,
+      "score": 1.0
+    },
+    {
+      "text": "diffusion non autorisée est interdite. L'émetteur décline toute responsabilité au titre de ce",
+      "doc_count": 115,
+      "score": 1.0
+    },
+    {
+      "text": "This message and any attachments are confidential and intended for the named addressee(s) only.",
+      "doc_count": 115,
+      "score": 1.0
+    },
+    {
+      "text": "the message. Any unauthorized modification, edition, use or dissemination is prohibited.",
+      "doc_count": 115,
+      "score": 1.0
+    },
+    {
+      "text": "by a virus or even edited or disseminated without authorization.",
+      "doc_count": 113,
+      "score": 1.0
+    },
+    {
+      "text": "Vous pouvez, dès à présent, intégrer le process comptable à ELO pour cette propriété.",
+      "doc_count": 104,
+      "score": 1.0
+    },
+    {
+      "text": "Disclaimer -The general conditions of Groupe LFE (also trading under the name LFE) apply to all quotes, proposals, orders and agreements. These general conditions are filed on the 24th of May 2012 with the Chamber of Commerce in Utrecht under ref. nr. 30072113 and can be found and downloaded on lfe.nl. At your first request a copy of the conditions will be sent to you without",
+      "doc_count": 103,
+      "score": 1.0
+    },
+    {
+      "text": "Pour consulter l’ensemble des disclaimers de l’entreprise, veuillez consulter l’url : https://www.natixis.com/natixis/fr/disclaimer-lpaz5_123480.html",
+      "doc_count": 102,
+      "score": 1.0
+    },
+    {
+      "text": "To consult the entire Natixis disclaimers, please use the following link : https://www.natixis.com/natixis/fr/disclaimer-lpaz5_123480.html",
+      "doc_count": 102,
+      "score": 1.0
+    },
+    {
+      "text": "IMPORTANT : Le contenu de ce courriel et ses éventuelles pièces jointes sont confidentiels. Ils sont destinés uniquement au(x) destinataire(s) nommé(s). Si vous avez reçu ce courriel par erreur, veuillez en informer immédiatement l'expéditeur et ne divulguez son contenu à personne et n'en faites pas de copies.",
+      "doc_count": 97,
+      "score": 1.0
+    },
+    {
+      "text": "Ce message et toutes les pièces jointes (ci-après le \"Message\") sont confidentiels et établis à l'intention exclusive de ses destinataires. Toute modification, édition, utilisation ou diffusion non autorisée est interdite. Si vous avez reçu ce Message par erreur, merci de nous en avertir immédiatement. GRAS SAVOYE et ses filiales déclinent toute responsabilité au titre de ce Message s'il a été altéré, déformé, falsifié ou encore édité ou diffusé sans autorisation.",
+      "doc_count": 96,
+      "score": 1.0
+    },
+    {
+      "text": "This message and any attachments (the \"Message\") are confidential and intended solely for the addressees. Any unauthorized modification, edition, use or dissemination is prohibited. If you have received this Message by mistake, please notify us immediately. Neither GRAS SAVOYE nor any of its subsidiaries or affiliates shall be liable for the Message if altered, changed, falsified, edited or diffused without authorization.",
+      "doc_count": 96,
+      "score": 1.0
+    },
+    {
+      "text": "Pour consulter l’ensemble des disclaimers de l’entreprise, veuillez consulter l’url :",
+      "doc_count": 88,
+      "score": 1.0
+    },
+    {
+      "text": "To consult the entire Natixis disclaimers, please use the following link :",
+      "doc_count": 88,
+      "score": 1.0
+    },
+    {
+      "text": "This email and any attachments are confidential and may also be privileged. If you are not the named recipient, please notify the sender immediately, and do not disclose the contents to another person, use it for any purpose, or store, or copy the information in any medium. Please also destroy and delete the message from your computer.",
+      "doc_count": 86,
+      "score": 1.0
+    },
+    {
+      "text": "Ce message et toutes les pièces jointes sont établis à l'attention exclusive de ses destinataires et sont confidentiels. Si vous recevez ce message par erreur, merci de le détruire et d'en avertir immédiatement l'expéditeur par retour d'email à",
+      "doc_count": 83,
+      "score": 1.0
+    },
+    {
+      "text": "contact@inlex.com. Toute utilisation de ce message non conforme à sa destination, toute diffusion ou toute publication, totale ou partielle, est interdite, sauf autorisation expresse. L'internet ne permettant pas d'assurer l'intégrité de ce message, INLEX IP EXPERTISE décline toute responsabilité au titre de ce message, dans l'hypothèse où il aurait été modifié.",
+      "doc_count": 83,
+      "score": 1.0
+    },
+    {
+      "text": "This message including any attachments is confidential and intended solely for the addressees. If received by error, please delete the message and inform us immediately by return e-mail at",
+      "doc_count": 83,
+      "score": 1.0
+    },
+    {
+      "text": "message s'il a été modifié, déformé, falsifié, infecté par un virus ou encore édité ou diffusé sans autorisation.",
+      "doc_count": 82,
+      "score": 1.0
+    },
+    {
+      "text": "\"This message and any attachment are confidential and/or may be protected from disclosure. If you are not the intended recipient, please telephone (+33(0)5 61 40 00 88) or email the sender and delete permanently this message and any attachment from your system. If you are not the intended recipient you must not copy this message or attachment or disclose the contents to any other person.\"",
+      "doc_count": 81,
+      "score": 1.0
+    },
+    {
+      "text": "Note de confidentialité : les informations contenues dans ce document peuvent être de nature confidentielle et sont destinées à l’usage exclusif du destinataire. Si le lecteur de ce message n’était pas le destinataire, il est averti que toute révélation, distribution ou copie de ce message ou des informations qu’il contient, est strictement interdit. Si vous avez reçu ce message par erreur nous vous remercions de nous le signaler par téléphone.",
+      "doc_count": 75,
+      "score": 1.0
+    }
+  ],
+  "regex_patterns": [
+    "you\\s+are\\s+not\\s+named\\s+above\\s+as\\s+an\\s+addressee\\s+it\\s+may",
+    "are\\s+not\\s+named\\s+above\\s+as\\s+an\\s+addressee\\s+it\\s+may\\s+be",
+    "if\\s+you\\s+are\\s+not\\s+named\\s+above\\s+as\\s+an\\s+addressee\\s+it",
+    "in\\s+this\\s+e\\-mail\\s+message\\.\\s+if\\s+you\\s+are\\s+not\\s+the\\s+intended",
+    "for\\s+you\\s+to\\s+read,\\s+copy,\\s+distribute,\\s+disclose\\s+or\\s+otherwise\\s+use",
+    "the\\s+information\\s+in\\s+this\\s+e\\-mail\\s+message\\.\\s+if\\s+you\\s+are\\s+not",
+    "information\\s+in\\s+this\\s+e\\-mail\\s+message\\.\\s+if\\s+you\\s+are\\s+not\\s+the",
+    "not\\s+named\\s+above\\s+as\\s+an\\s+addressee\\s+it\\s+may\\s+be\\s+unlawful",
+    "unlawful\\s+for\\s+you\\s+to\\s+read,\\s+copy,\\s+distribute,\\s+disclose\\s+or\\s+otherwise",
+    "information\\.\\s+if\\s+you\\s+are\\s+not\\s+named\\s+above\\s+as\\s+an\\s+addressee",
+    "this\\s+e\\-mail\\s+message\\.\\s+if\\s+you\\s+are\\s+not\\s+the\\s+intended\\s+recipient",
+    "recipient\\s+of\\s+this\\s+e\\-mail\\s+message,\\s+please\\s+telephone\\s+or\\s+e\\-mail\\s+us",
+    "named\\s+above\\s+as\\s+an\\s+addressee\\s+it\\s+may\\s+be\\s+unlawful\\s+for",
+    "above\\s+as\\s+an\\s+addressee\\s+it\\s+may\\s+be\\s+unlawful\\s+for\\s+you",
+    "be\\s+unlawful\\s+for\\s+you\\s+to\\s+read,\\s+copy,\\s+distribute,\\s+disclose\\s+or",
+    "it\\s+may\\s+be\\s+unlawful\\s+for\\s+you\\s+to\\s+read,\\s+copy,\\s+distribute,",
+    "may\\s+be\\s+unlawful\\s+for\\s+you\\s+to\\s+read,\\s+copy,\\s+distribute,\\s+disclose",
+    "you\\s+to\\s+read,\\s+copy,\\s+distribute,\\s+disclose\\s+or\\s+otherwise\\s+use\\s+the",
+    "to\\s+read,\\s+copy,\\s+distribute,\\s+disclose\\s+or\\s+otherwise\\s+use\\s+the\\s+information",
+    "otherwise\\s+use\\s+the\\s+information\\s+in\\s+this\\s+e\\-mail\\s+message\\.\\s+if\\s+you",
+    "use\\s+the\\s+information\\s+in\\s+this\\s+e\\-mail\\s+message\\.\\s+if\\s+you\\s+are",
+    "e\\-mail\\s+message\\.\\s+if\\s+you\\s+are\\s+not\\s+the\\s+intended\\s+recipient\\s+of",
+    "message\\.\\s+if\\s+you\\s+are\\s+not\\s+the\\s+intended\\s+recipient\\s+of\\s+this",
+    "if\\s+you\\s+are\\s+not\\s+the\\s+intended\\s+recipient\\s+of\\s+this\\s+e\\-mail",
+    "as\\s+an\\s+addressee\\s+it\\s+may\\s+be\\s+unlawful\\s+for\\s+you\\s+to",
+    "you\\s+are\\s+not\\s+the\\s+intended\\s+recipient\\s+of\\s+this\\s+e\\-mail\\s+message,",
+    "the\\s+intended\\s+recipient\\s+of\\s+this\\s+e\\-mail\\s+message,\\s+please\\s+telephone\\s+or",
+    "an\\s+addressee\\s+it\\s+may\\s+be\\s+unlawful\\s+for\\s+you\\s+to\\s+read,",
+    "addressee\\s+it\\s+may\\s+be\\s+unlawful\\s+for\\s+you\\s+to\\s+read,\\s+copy,",
+    "read,\\s+copy,\\s+distribute,\\s+disclose\\s+or\\s+otherwise\\s+use\\s+the\\s+information\\s+in",
+    "copy,\\s+distribute,\\s+disclose\\s+or\\s+otherwise\\s+use\\s+the\\s+information\\s+in\\s+this",
+    "distribute,\\s+disclose\\s+or\\s+otherwise\\s+use\\s+the\\s+information\\s+in\\s+this\\s+e\\-mail",
+    "disclose\\s+or\\s+otherwise\\s+use\\s+the\\s+information\\s+in\\s+this\\s+e\\-mail\\s+message\\.",
+    "or\\s+otherwise\\s+use\\s+the\\s+information\\s+in\\s+this\\s+e\\-mail\\s+message\\.\\s+if",
+    "are\\s+not\\s+the\\s+intended\\s+recipient\\s+of\\s+this\\s+e\\-mail\\s+message,\\s+please",
+    "not\\s+the\\s+intended\\s+recipient\\s+of\\s+this\\s+e\\-mail\\s+message,\\s+please\\s+telephone",
+    "intended\\s+recipient\\s+of\\s+this\\s+e\\-mail\\s+message,\\s+please\\s+telephone\\s+or\\s+e\\-mail",
+    "confidential\\s+information\\.\\s+if\\s+you\\s+are\\s+not\\s+named\\s+above\\s+as\\s+an",
+    "this\\s+e\\-mail\\s+message\\s+is\\s+confidential\\s+and\\s+may\\s+contain\\s+confidential\\s+information\\.",
+    "e\\-mail\\s+message\\s+is\\s+confidential\\s+and\\s+may\\s+contain\\s+confidential\\s+information\\.\\s+if",
+    "message\\s+is\\s+confidential\\s+and\\s+may\\s+contain\\s+confidential\\s+information\\.\\s+if\\s+you",
+    "is\\s+confidential\\s+and\\s+may\\s+contain\\s+confidential\\s+information\\.\\s+if\\s+you\\s+are",
+    "confidential\\s+and\\s+may\\s+contain\\s+confidential\\s+information\\.\\s+if\\s+you\\s+are\\s+not",
+    "and\\s+may\\s+contain\\s+confidential\\s+information\\.\\s+if\\s+you\\s+are\\s+not\\s+named",
+    "may\\s+contain\\s+confidential\\s+information\\.\\s+if\\s+you\\s+are\\s+not\\s+named\\s+above",
+    "contain\\s+confidential\\s+information\\.\\s+if\\s+you\\s+are\\s+not\\s+named\\s+above\\s+as",
+    "pas\\s+destinataire,\\s+toute\\s+lecture,\\s+copie,\\s+distribution,\\s+divulgation\\s+ou\\s+utilisation\\s+sont",
+    "destinataire,\\s+toute\\s+lecture,\\s+copie,\\s+distribution,\\s+divulgation\\s+ou\\s+utilisation\\s+sont\\s+interdites",
+    "toute\\s+lecture,\\s+copie,\\s+distribution,\\s+divulgation\\s+ou\\s+utilisation\\s+sont\\s+interdites\\s+et",
+    "lecture,\\s+copie,\\s+distribution,\\s+divulgation\\s+ou\\s+utilisation\\s+sont\\s+interdites\\s+et\\s+pourraient",
+    "copie,\\s+distribution,\\s+divulgation\\s+ou\\s+utilisation\\s+sont\\s+interdites\\s+et\\s+pourraient\\s+engager",
+    "distribution,\\s+divulgation\\s+ou\\s+utilisation\\s+sont\\s+interdites\\s+et\\s+pourraient\\s+engager\\s+votre",
+    "est\\s+confidentiel\\s+et\\s+peut\\s+contenir\\s+des\\s+informations\\s+confidentielles\\.\\s+si\\s+vous",
+    "êtes\\s+pas\\s+destinataire,\\s+toute\\s+lecture,\\s+copie,\\s+distribution,\\s+divulgation\\s+ou\\s+utilisation",
+    "vous\\s+plaît\\s+nous\\s+contacter\\s+par\\s+téléphone\\s+ou\\s+par\\s+courrier\\s+électronique\\.",
+    "pourraient\\s+engager\\s+votre\\s+responsabilité\\.\\s+au\\s+cas\\s+où\\s+vous\\s+recevriez\\s+ce",
+    "divulgation\\s+ou\\s+utilisation\\s+sont\\s+interdites\\s+et\\s+pourraient\\s+engager\\s+votre\\s+responsabilité\\.",
+    "ou\\s+utilisation\\s+sont\\s+interdites\\s+et\\s+pourraient\\s+engager\\s+votre\\s+responsabilité\\.\\s+au",
+    "utilisation\\s+sont\\s+interdites\\s+et\\s+pourraient\\s+engager\\s+votre\\s+responsabilité\\.\\s+au\\s+cas",
+    "sont\\s+interdites\\s+et\\s+pourraient\\s+engager\\s+votre\\s+responsabilité\\.\\s+au\\s+cas\\s+où",
+    "interdites\\s+et\\s+pourraient\\s+engager\\s+votre\\s+responsabilité\\.\\s+au\\s+cas\\s+où\\s+vous",
+    "et\\s+pourraient\\s+engager\\s+votre\\s+responsabilité\\.\\s+au\\s+cas\\s+où\\s+vous\\s+recevriez",
+    "ce\\s+courriel\\s+est\\s+confidentiel\\s+et\\s+peut\\s+contenir\\s+des\\s+informations\\s+confidentielles\\.",
+    "courriel\\s+est\\s+confidentiel\\s+et\\s+peut\\s+contenir\\s+des\\s+informations\\s+confidentielles\\.\\s+si",
+    "au\\s+cas\\s+où\\s+vous\\s+recevriez\\s+ce\\s+courriel\\s+par\\s+erreur,\\s+veuillez",
+    "engager\\s+votre\\s+responsabilité\\.\\s+au\\s+cas\\s+où\\s+vous\\s+recevriez\\s+ce\\s+courriel",
+    "votre\\s+responsabilité\\.\\s+au\\s+cas\\s+où\\s+vous\\s+recevriez\\s+ce\\s+courriel\\s+par",
+    "responsabilité\\.\\s+au\\s+cas\\s+où\\s+vous\\s+recevriez\\s+ce\\s+courriel\\s+par\\s+erreur,",
+    "courriel\\s+par\\s+erreur,\\s+veuillez\\s+s’il\\s+vous\\s+plaît\\s+nous\\s+contacter\\s+par",
+    "erreur,\\s+veuillez\\s+s’il\\s+vous\\s+plaît\\s+nous\\s+contacter\\s+par\\s+téléphone\\s+ou",
+    "veuillez\\s+s’il\\s+vous\\s+plaît\\s+nous\\s+contacter\\s+par\\s+téléphone\\s+ou\\s+par",
+    "s’il\\s+vous\\s+plaît\\s+nous\\s+contacter\\s+par\\s+téléphone\\s+ou\\s+par\\s+courrier",
+    "vous\\s+recevriez\\s+ce\\s+courriel\\s+par\\s+erreur,\\s+veuillez\\s+s’il\\s+vous\\s+plaît",
+    "recevriez\\s+ce\\s+courriel\\s+par\\s+erreur,\\s+veuillez\\s+s’il\\s+vous\\s+plaît\\s+nous",
+    "ce\\s+courriel\\s+par\\s+erreur,\\s+veuillez\\s+s’il\\s+vous\\s+plaît\\s+nous\\s+contacter",
+    "par\\s+erreur,\\s+veuillez\\s+s’il\\s+vous\\s+plaît\\s+nous\\s+contacter\\s+par\\s+téléphone",
+    "si\\s+vous\\s+n’en\\s+êtes\\s+pas\\s+destinataire,\\s+toute\\s+lecture,\\s+copie,\\s+distribution,",
+    "vous\\s+n’en\\s+êtes\\s+pas\\s+destinataire,\\s+toute\\s+lecture,\\s+copie,\\s+distribution,\\s+divulgation",
+    "n’en\\s+êtes\\s+pas\\s+destinataire,\\s+toute\\s+lecture,\\s+copie,\\s+distribution,\\s+divulgation\\s+ou",
+    "cas\\s+où\\s+vous\\s+recevriez\\s+ce\\s+courriel\\s+par\\s+erreur,\\s+veuillez\\s+s’il",
+    "où\\s+vous\\s+recevriez\\s+ce\\s+courriel\\s+par\\s+erreur,\\s+veuillez\\s+s’il\\s+vous",
+    "confidentielles\\.\\s+si\\s+vous\\s+n’en\\s+êtes\\s+pas\\s+destinataire,\\s+toute\\s+lecture,\\s+copie,",
+    "confidentiel\\s+et\\s+peut\\s+contenir\\s+des\\s+informations\\s+confidentielles\\.\\s+si\\s+vous\\s+n’en",
+    "et\\s+peut\\s+contenir\\s+des\\s+informations\\s+confidentielles\\.\\s+si\\s+vous\\s+n’en\\s+êtes",
+    "peut\\s+contenir\\s+des\\s+informations\\s+confidentielles\\.\\s+si\\s+vous\\s+n’en\\s+êtes\\s+pas",
+    "contenir\\s+des\\s+informations\\s+confidentielles\\.\\s+si\\s+vous\\s+n’en\\s+êtes\\s+pas\\s+destinataire,",
+    "des\\s+informations\\s+confidentielles\\.\\s+si\\s+vous\\s+n’en\\s+êtes\\s+pas\\s+destinataire,\\s+toute",
+    "informations\\s+confidentielles\\.\\s+si\\s+vous\\s+n’en\\s+êtes\\s+pas\\s+destinataire,\\s+toute\\s+lecture,",
+    "courrier\\s+électronique\\.\\s+this\\s+e\\-mail\\s+message\\s+is\\s+confidential\\s+and\\s+may\\s+contain",
+    "plaît\\s+nous\\s+contacter\\s+par\\s+téléphone\\s+ou\\s+par\\s+courrier\\s+électronique\\.\\s+this",
+    "nous\\s+contacter\\s+par\\s+téléphone\\s+ou\\s+par\\s+courrier\\s+électronique\\.\\s+this\\s+e\\-mail",
+    "contacter\\s+par\\s+téléphone\\s+ou\\s+par\\s+courrier\\s+électronique\\.\\s+this\\s+e\\-mail\\s+message",
+    "par\\s+téléphone\\s+ou\\s+par\\s+courrier\\s+électronique\\.\\s+this\\s+e\\-mail\\s+message\\s+is",
+    "téléphone\\s+ou\\s+par\\s+courrier\\s+électronique\\.\\s+this\\s+e\\-mail\\s+message\\s+is\\s+confidential",
+    "ou\\s+par\\s+courrier\\s+électronique\\.\\s+this\\s+e\\-mail\\s+message\\s+is\\s+confidential\\s+and",
+    "par\\s+courrier\\s+électronique\\.\\s+this\\s+e\\-mail\\s+message\\s+is\\s+confidential\\s+and\\s+may",
+    "électronique\\.\\s+this\\s+e\\-mail\\s+message\\s+is\\s+confidential\\s+and\\s+may\\s+contain\\s+confidential",
+    "avant\\s+de\\s+cliquer\\s+sur\\s+un\\s+lien\\s+ou\\s+d’ouvrir\\s+une\\s+pièce",
+    "de\\s+cliquer\\s+sur\\s+un\\s+lien\\s+ou\\s+d’ouvrir\\s+une\\s+pièce\\s+jointe\\.",
+    "message\\s+externe\\s+:\\s+soyez\\s+sûr\\s+de\\s+connaître\\s+l’expéditeur\\s+avant\\s+de",
+    "________________________________",
+    "Ce\\s+courriel\\s+est\\s+confidentiel\\s+et\\s+peut\\s+contenir\\s+des\\s+informations\\s+confidentielles\\.\\s+Si\\s+vous\\s+n’en\\s+êtes\\s+pas\\s+destinataire,\\s+toute\\s+lecture,\\s+copie,\\s+distribution,\\s+divulgation\\s+ou\\s+utilisation\\s+sont\\s+interdites\\s+et\\s+pourraient\\s+engager\\s+votre\\s+responsabilité\\.\\s+Au\\s+cas\\s+où\\s+vous\\s+recevriez\\s+ce\\s+courriel\\s+par\\s+erreur,\\s+veuillez\\s+s’il\\s+vous\\s+plaît\\s+nous\\s+contacter\\s+par\\s+téléphone\\s+ou\\s+par\\s+courrier\\s+électronique\\.",
+    "MESSAGE\\s+EXTERNE\\s+:\\s+soyez\\s+sûr\\s+de\\s+connaître\\s+l’expéditeur\\s+avant\\s+de\\s+cliquer\\s+sur\\s+un\\s+lien\\s+ou\\s+d’ouvrir\\s+une\\s+pièce\\s+jointe\\.",
+    "This\\s+e\\-mail\\s+message\\s+is\\s+confidential\\s+and\\s+may\\s+contain\\s+confidential\\s+information\\.\\s+If\\s+you\\s+are\\s+not\\s+named\\s+above\\s+as\\s+an\\s+addressee\\s+it\\s+may\\s+be\\s+unlawful\\s+for\\s+you\\s+to\\s+read,\\s+copy,\\s+distribute,\\s+disclose\\s+or\\s+otherwise\\s+use\\s+the\\s+information\\s+in\\s+this\\s+e\\-mail\\s+message\\.\\s+If\\s+you\\s+are\\s+not\\s+the\\s+intended\\s+recipient\\s+of\\s+this\\s+e\\-mail\\s+message,\\s+please\\s+telephone\\s+or\\s+e\\-mail\\s+us\\s+immediately\\.",
+    "christophe\\.canesson@vins\\-castel\\.wine",
+    "http://www\\.groupe\\-castel\\.com/signature/logo80\\.png",
+    "\\-\\-\\-\\-\\-\\-\\-\\-\\s+Message\\s+d'origine\\s+\\-\\-\\-\\-\\-\\-\\-\\-",
+    "Email\\s+:\\s+dominique\\.abrivat@vins\\-castel\\.wine",
+    "This\\s+e\\-mail\\s+message\\s+is\\s+confidential\\s+and\\s+may\\s+contain\\s+confidential\\s+information\\.\\s+If\\s+you\\s+are\\s+not\\s+named\\s+above\\s+as\\s+an\\s+addressee\\s+it\\s+may\\s+be\\s+unlawful\\s+for\\s+you\\s+to\\s+read,\\s+copy,\\s+distribute,\\s+disclose\\s+or\\s+otherwise\\s+use\\s+the\\s+information\\s+in\\s+this\\s+e\\-mail\\s+message\\.\\s+If\\s+you\\s+are\\s+not\\s+the\\s+intended\\s+recipient\\s+of\\s+this\\s+e\\-mail\\s+message,\\s+please\\s+telephone\\s+or\\s+e\\-mail\\s+us\\s+immediately",
+    "24\\s+rue\\s+Georges\\s+Guynemer\\s+33290\\s+Blanquefort\\s+–\\s+France",
+    "Email\\s+:\\s+valerie\\.costes@vins\\-castel\\.wine",
+    "valerie\\.costes@vins\\-castel\\.wine",
+    "Tél\\.\\s+:\\s+mobile\\s+\\+33\\s+\\(0\\)6\\s+26\\s+05\\s+36\\s+12",
+    "Site\\s+web\\s+:\\s+www\\.vins\\-castel\\.wine",
+    "Tél\\.\\s+bureau\\s+\\s+:\\s+\\s+05\\.56\\.35\\.72\\.69",
+    "Tél\\.\\s+mobile\\s+\\s+:\\s+\\s+06\\.15\\.62\\.56\\.70",
+    "Courriel\\s+:\\s+david\\.lioret@vins\\-castel\\.wine",
+    "Envoyé\\s+depuis\\s+mon\\s+smartphone\\s+Samsung\\s+Galaxy\\.",
+    "GIDE\\s+LOYRETTE\\s+NOUEL\\s+A\\.A\\.R\\.P\\.I\\.",
+    "dominique\\.abrivat@vins\\-castel\\.wine",
+    "Objet\\s+:\\s+RE:\\s+ELO\\s+Castel\\s+Frères\\s+\\-\\s+Précisions\\s+sur\\s+les\\s+droits\\s+et\\s+la\\s+gestion\\s+des\\s+utilisateurs",
+    "Objet\\s+:\\s+RE:\\s+Intégration\\s+Château\\s+Cavalier",
+    "15\\s+rue\\s+de\\s+Laborde\\s+\\|\\s+75008\\s+Paris\\s+\\|\\s+France",
+    "This\\s+e\\-mail\\s+is\\s+sent\\s+by\\s+a\\s+law\\s+firm\\s+and\\s+may\\s+contain\\s+information\\s+that\\s+is\\s+privileged\\s+or\\s+confidential\\.\\s+If\\s+you\\s+are\\s+not\\s+the\\s+intended\\s+recipient,\\s+please\\s+delete\\s+this\\s+e\\-mail\\s+and\\s+any\\s+attachments\\s+and\\s+notify\\s+us\\s+immediately\\.",
+    "Ce\\s+message\\s+provient\\s+d’un\\s+cabinet\\s+d’avocats\\s+et\\s+contient\\s+des\\s+informations\\s+confidentielles\\s+protégées\\s+par\\s+le\\s+secret\\s+professionnel\\.\\s+Au\\s+cas\\s+où\\s+il\\s+ne\\s+vous\\s+serait\\s+pas\\s+destiné,\\s+nous\\s+vous\\s+remercions\\s+de\\s+bien\\s+vouloir\\s+nous\\s+en\\s+aviser\\s+immédiatement\\s+et\\s+de\\s+le\\s+supprimer\\.",
+    "Date\\s+/\\s+Date\\s+\\\tNom\\s+de\\s+l'expéditeur\\s+/\\s+Sender\\\t\\s+Objet\\s+/\\s+Subject\\\t\\s+Taille\\s+/\\s+Size",
+    "Objet\\s+:\\s+RE:\\s+\\[SAVOUR\\]\\s+Export\\s+de\\s+facture\\s+\\-\\s+URGENT",
+    "Courriel\\s+:\\s+d\\.abrivat@castel\\-freres\\.com",
+    "Château\\s+Magnol\\s+–\\s+87\\s+rue\\s+du\\s+Dehez",
+    "vanessa\\.zangari@vins\\-castel\\.wine",
+    "\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-",
+    "Objet\\s+:\\s+RE:\\s+Offre\\s+\\[GLN\\-PAR\\.004466\\.C\\.004466\\.0004\\]",
+    "Ce\\s+message\\s+et\\s+les\\s+pièces\\s+qui\\s+y\\s+sont\\s+éventuellement\\s+jointes\\s+sont\\s+soumis\\s+à\\s+des\\s+règles\\s+précisées\\s+sur\\s+notre\\s+site\\s+web\\s+:\\s+http://www\\.mazars\\.fr/disclaimer",
+    "This\\s+e\\-mail\\s+and\\s+any\\s+attachments\\s+are\\s+subject\\s+to\\s+a\\s+disclaimer\\s+which\\s+is\\s+available\\s+on\\s+our\\s+website:\\s+http://www\\.mazars\\.fr/disclaimer",
+    "Objet\\s+:\\s+RE:\\s+Point\\s+Castel\\s+Frères\\s+Tests\\s+Caves\\s+Arcins\\s+/\\s+Monein\\s+et\\s+Montlabert",
+    "Gide\\s+Loyrette\\s+Nouel\\s+ne\\s+peut\\s+être\\s+tenu\\s+responsable\\s+en\\s+cas\\s+de\\s+modification\\s+d’un\\s+message\\s+électronique\\s+ou\\s+d’une\\s+pièce\\s+jointe\\s+sans\\s+son\\s+accord\\s+écrit\\.\\s+Gide\\s+Loyrette\\s+Nouel\\s+A\\.A\\.R\\.P\\.I\\.\\s+fait\\s+partie\\s+de\\s+Gide\\s+Loyrette\\s+Nouel,\\s+un\\s+cabinet\\s+d’avocats\\s+international\\s+ayant\\s+ses\\s+bureaux\\s+à\\s+Alger,\\s+Bruxelles,\\s+Casablanca,\\s+Istanbul,\\s+Londres,\\s+New\\s+York,\\s+Paris,\\s+Pékin,\\s+Shanghai,\\s+Tunis\\s+et\\s+Varsovie\\.\\s+Une\\s+liste\\s+des\\s+associés\\s+de\\s+chaque\\s+bureau\\s+vous\\s+sera\\s+fournie\\s+sur\\s+demande\\.",
+    "Tél\\s+:\\s+02\\s+28\\s+21\\s+06\\s+06\\s+\\-\\s+www\\.adoc\\-solutions\\.eu",
+    "T\\s+\\+33\\s+\\(0\\)1\\s+40\\s+75\\s+36\\s+51\\s+\\|\\s+M\\s+\\+33\\s+\\(0\\)6\\s+68\\s+26\\s+15\\s+96",
+    "Gestionnaire\\s+Paie\\s+et\\s+Ressources\\s+Humaines",
+    "fabienne\\.savary@vins\\-castel\\.wine",
+    "=========================================================",
+    "Gide\\s+Loyrette\\s+Nouel\\s+is\\s+not\\s+liable\\s+if\\s+an\\s+e\\-mail\\s+or\\s+attachment\\s+is\\s+altered\\s+without\\s+its\\s+written\\s+consent\\.\\s+Gide\\s+Loyrette\\s+Nouel\\s+A\\.A\\.R\\.P\\.I\\.\\s+is\\s+part\\s+of\\s+Gide\\s+Loyrette\\s+Nouel,\\s+an\\s+international\\s+law\\s+firm,\\s+with\\s+offices\\s+in\\s+Algiers,\\s+Beijing,\\s+Brussels,\\s+Casablanca,\\s+Istanbul,\\s+London,\\s+New\\s+York,\\s+Paris,\\s+Shanghai,\\s+\\s+Tunis\\s+and\\s+Warsaw\\.\\s+A\\s+list\\s+of\\s+partners\\s+at\\s+each\\s+office\\s+can\\s+be\\s+provided\\s+upon\\s+request\\.",
+    "Eymeric\\.DeWoewodsky@vins\\-castel\\.wine",
+    "Comptabilité\\s+Castel\\s+Frères\\s+Siège",
+    "Cet\\s+email\\s+et\\s+tous\\s+les\\s+fichiers\\s+qui\\s+l'accompagnent\\s+sont\\s+confidentiels\\s+et\\s+destinés\\s+uniquement\\s+à\\s+l'usage\\s+de\\s+la\\s+personne\\s+physique\\s+ou\\s+morale\\s+à\\s+laquelle\\s+ils\\s+sont\\s+adressés\\.",
+    "Ce\\s+message\\s+est\\s+confidentiel\\s+et\\s+peut\\s+contenir\\s+des\\s+informations\\s+confidentielles\\.\\s+Si\\s+vous\\s+n'en\\s+êtes\\s+pas\\s+destinataire,\\s+toute\\s+lecture,\\s+copie,\\s+distribution,\\s+divulgation\\s+ou\\s+utilisation\\s+sont\\s+interdites\\s+et\\s+pourraient\\s+engager\\s+votre\\s+responsabilité\\.\\s+Au\\s+cas\\s+où\\s+vous\\s+recevriez\\s+ce\\s+message\\s+par\\s+erreur,\\s+veuillez\\s+s'il\\s+vous\\s+plaît\\s+nous\\s+contacter\\s+par\\s+téléphone\\s+ou\\s+par\\s+courrier\\s+électronique\\.",
+    "Disclaimer\\s+\\-The\\s+most\\s+recent\\s+general\\s+conditions\\s+of\\s+Groupe\\s+LFE\\s+\\(also\\s+trading\\s+under\\s+the\\s+name\\s+LFE\\)\\s+apply\\s+to\\s+all\\s+quotes,\\s+proposals,\\s+orders\\s+and\\s+agreements\\.\\s+These\\s+most\\s+recent\\s+general\\s+conditions\\s+are\\s+filed\\s+at\\s+the\\s+Chamber\\s+of\\s+Commerce\\s+in\\s+Utrecht\\s+under\\s+number\\s+30072113\\s+and\\s+can\\s+be\\s+found\\s+and\\s+downloaded\\s+on\\s+www\\.lfe\\.nl",
+    "intended\\s+solely\\s+for\\s+the\\s+intended\\s+addressees\\s+and\\s+is\\s+confidential\\.",
+    "If\\s+you\\s+receive\\s+this\\s+message\\s+in\\s+error,or\\s+are\\s+not\\s+the\\s+intended\\s+recipient\\(s\\),",
+    "the\\s+sender\\.\\s+Any\\s+unauthorized\\s+view,\\s+use\\s+that\\s+does\\s+not\\s+comply\\s+with\\s+its\\s+purpose,",
+    "sont\\s+etablis\\s+a\\s+l'intention\\s+exclusive\\s+de\\s+ses\\s+destinataires\\s+et\\s+sont\\s+confidentiels\\.",
+    "ce\\s+message\\s+qui\\s+n'est\\s+pas\\s+conforme\\s+a\\s+sa\\s+destination,\\s+toute\\s+diffusion\\s+ou\\s+toute",
+    "The\\s+integrity\\s+of\\s+this\\s+message\\s+cannot\\s+be\\s+guaranteed\\s+on\\s+the\\s+Internet\\.\\s+Natixis\\s+cannot\\s+therefore\\s+be\\s+considered\\s+responsible\\s+for\\s+the\\s+contents\\.\\s+Any\\s+unauthorized\\s+use\\s+or\\s+dissemination\\s+is",
+    "sont\\s+confidentiels\\s+et\\s+susceptibles\\s+de\\s+contenir\\s+des\\s+informations",
+    "This\\s+message\\s+and\\s+any\\s+attachments\\s+\\(the\\s+\"message\"\\)\\s+are\\s+confidential,",
+    "a\\s+l'intention\\s+exclusive\\s+de\\s+ses\\s+destinataires\\.\\s+Toute\\s+utilisation",
+    "ou\\s+diffusion\\s+non\\s+autorisee\\s+interdite\\.",
+    "Do\\s+not\\s+print\\s+this\\s+message\\s+unless\\s+it\\s+is\\s+necessary,\\s+consider\\s+the\\s+environment\\.",
+    "https://www\\.natixis\\.com/natixis/upload/docs/application/pdf/2017\\-09/disclaimer\\.pdf",
+    "http://www\\.mazars\\.fr/disclaimer",
+    "information\\.\\s+Any\\s+unauthorized\\s+use\\s+or\\s+dissemination\\s+is\\s+prohibited\\.",
+    "prohibited\\.\\s+If\\s+you\\s+are\\s+not\\s+the\\s+intended\\s+recipient\\s+of\\s+this\\s+message,\\s+please\\s+delete\\s+it\\s+and\\s+notify\\s+the\\s+sender\\.\\s+According\\s+to\\s+privacy\\s+laws\\s+to\\s+which\\s+Natixis\\s+may\\s+be\\s+subject,\\s+the\\s+rights\\s+relating\\s+to\\s+the\\s+personal\\s+data\\s+you\\s+may\\s+benefit\\s+from\\s+are\\s+described\\s+in\\s+the\\s+information\\s+notice\\s+available\\s+on\\s+our\\s+website",
+    "STATEMENT\\s+OF\\s+CONFIDENTIALITY:\\s+The\\s+information\\s+contained\\s+in\\s+this\\s+email\\s+message\\s+and\\s+any\\s+attachments\\s+may\\s+be\\s+confidential\\s+and\\s+legally\\s+privileged\\s+and\\s+is\\s+intended\\s+for\\s+the\\s+use\\s+of\\s+the\\s+addressee\\(s\\)\\s+only\\.\\s+If\\s+you\\s+are\\s+not\\s+an\\s+intended\\s+recipient,\\s+please:\\s+\\(1\\)\\s+notify\\s+me\\s+immediately\\s+by\\s+replying\\s+to\\s+this\\s+message;\\s+\\(2\\)\\s+do\\s+not\\s+use,\\s+disseminate,\\s+distribute,\\s+or\\s+reproduce\\s+any\\s+part\\s+of\\s+the\\s+message\\s+or\\s+any\\s+attachment;\\s+and\\s+\\(3\\)\\s+destroy\\s+all\\s+copies\\s+of\\s+this\\s+message\\s+and\\s+any\\s+attachments\\.",
+    "This\\s+e\\-mail\\s+and\\s+any\\s+attachments\\s+are\\s+subject\\s+to\\s+a\\s+disclaimer\\s+which\\s+is\\s+available\\s+on\\s+our\\s+website:",
+    "Le\\s+contenu\\s+de\\s+cet\\s+email\\s+invite\\s+à\\s+transmettre\\s+des\\s+informations\\s+confidentielles\\s+ou\\s+à\\s+réaliser\\s+des\\s+actions\\s+à\\s+risque\\.",
+    "Ce\\s+message\\s+et\\s+toutes\\s+les\\s+pièces\\s+jointes\\s+sont\\s+confidentiels\\s+et\\s+établis\\s+à\\s+l'intention\\s+exclusive",
+    "de\\s+son\\s+ou\\s+ses\\s+destinataires\\.\\s+Si\\s+vous\\s+avez\\s+reçu\\s+ce\\s+message\\s+par\\s+erreur,\\s+merci\\s+d'en\\s+avertir",
+    "diffusion\\s+non\\s+autorisée\\s+est\\s+interdite\\.\\s+L'émetteur\\s+décline\\s+toute\\s+responsabilité\\s+au\\s+titre\\s+de\\s+ce",
+    "This\\s+message\\s+and\\s+any\\s+attachments\\s+are\\s+confidential\\s+and\\s+intended\\s+for\\s+the\\s+named\\s+addressee\\(s\\)\\s+only\\.",
+    "the\\s+message\\.\\s+Any\\s+unauthorized\\s+modification,\\s+edition,\\s+use\\s+or\\s+dissemination\\s+is\\s+prohibited\\.",
+    "by\\s+a\\s+virus\\s+or\\s+even\\s+edited\\s+or\\s+disseminated\\s+without\\s+authorization\\.",
+    "Vous\\s+pouvez,\\s+dès\\s+à\\s+présent,\\s+intégrer\\s+le\\s+process\\s+comptable\\s+à\\s+ELO\\s+pour\\s+cette\\s+propriété\\.",
+    "Disclaimer\\s+\\-The\\s+general\\s+conditions\\s+of\\s+Groupe\\s+LFE\\s+\\(also\\s+trading\\s+under\\s+the\\s+name\\s+LFE\\)\\s+apply\\s+to\\s+all\\s+quotes,\\s+proposals,\\s+orders\\s+and\\s+agreements\\.\\s+These\\s+general\\s+conditions\\s+are\\s+filed\\s+on\\s+the\\s+24th\\s+of\\s+May\\s+2012\\s+with\\s+the\\s+Chamber\\s+of\\s+Commerce\\s+in\\s+Utrecht\\s+under\\s+ref\\.\\s+nr\\.\\s+30072113\\s+and\\s+can\\s+be\\s+found\\s+and\\s+downloaded\\s+on\\s+lfe\\.nl\\.\\s+At\\s+your\\s+first\\s+request\\s+a\\s+copy\\s+of\\s+the\\s+conditions\\s+will\\s+be\\s+sent\\s+to\\s+you\\s+without",
+    "Pour\\s+consulter\\s+l’ensemble\\s+des\\s+disclaimers\\s+de\\s+l’entreprise,\\s+veuillez\\s+consulter\\s+l’url\\s+:\\s+https://www\\.natixis\\.com/natixis/fr/disclaimer\\-lpaz5_123480\\.html",
+    "To\\s+consult\\s+the\\s+entire\\s+Natixis\\s+disclaimers,\\s+please\\s+use\\s+the\\s+following\\s+link\\s+:\\s+https://www\\.natixis\\.com/natixis/fr/disclaimer\\-lpaz5_123480\\.html",
+    "IMPORTANT\\s+:\\s+Le\\s+contenu\\s+de\\s+ce\\s+courriel\\s+et\\s+ses\\s+éventuelles\\s+pièces\\s+jointes\\s+sont\\s+confidentiels\\.\\s+Ils\\s+sont\\s+destinés\\s+uniquement\\s+au\\(x\\)\\s+destinataire\\(s\\)\\s+nommé\\(s\\)\\.\\s+Si\\s+vous\\s+avez\\s+reçu\\s+ce\\s+courriel\\s+par\\s+erreur,\\s+veuillez\\s+en\\s+informer\\s+immédiatement\\s+l'expéditeur\\s+et\\s+ne\\s+divulguez\\s+son\\s+contenu\\s+à\\s+personne\\s+et\\s+n'en\\s+faites\\s+pas\\s+de\\s+copies\\.",
+    "Ce\\s+message\\s+et\\s+toutes\\s+les\\s+pièces\\s+jointes\\s+\\(ci\\-après\\s+le\\s+\"Message\"\\)\\s+sont\\s+confidentiels\\s+et\\s+établis\\s+à\\s+l'intention\\s+exclusive\\s+de\\s+ses\\s+destinataires\\.\\s+Toute\\s+modification,\\s+édition,\\s+utilisation\\s+ou\\s+diffusion\\s+non\\s+autorisée\\s+est\\s+interdite\\.\\s+Si\\s+vous\\s+avez\\s+reçu\\s+ce\\s+Message\\s+par\\s+erreur,\\s+merci\\s+de\\s+nous\\s+en\\s+avertir\\s+immédiatement\\.\\s+GRAS\\s+SAVOYE\\s+et\\s+ses\\s+filiales\\s+déclinent\\s+toute\\s+responsabilité\\s+au\\s+titre\\s+de\\s+ce\\s+Message\\s+s'il\\s+a\\s+été\\s+altéré,\\s+déformé,\\s+falsifié\\s+ou\\s+encore\\s+édité\\s+ou\\s+diffusé\\s+sans\\s+autorisation\\.",
+    "This\\s+message\\s+and\\s+any\\s+attachments\\s+\\(the\\s+\"Message\"\\)\\s+are\\s+confidential\\s+and\\s+intended\\s+solely\\s+for\\s+the\\s+addressees\\.\\s+Any\\s+unauthorized\\s+modification,\\s+edition,\\s+use\\s+or\\s+dissemination\\s+is\\s+prohibited\\.\\s+If\\s+you\\s+have\\s+received\\s+this\\s+Message\\s+by\\s+mistake,\\s+please\\s+notify\\s+us\\s+immediately\\.\\s+Neither\\s+GRAS\\s+SAVOYE\\s+nor\\s+any\\s+of\\s+its\\s+subsidiaries\\s+or\\s+affiliates\\s+shall\\s+be\\s+liable\\s+for\\s+the\\s+Message\\s+if\\s+altered,\\s+changed,\\s+falsified,\\s+edited\\s+or\\s+diffused\\s+without\\s+authorization\\.",
+    "Pour\\s+consulter\\s+l’ensemble\\s+des\\s+disclaimers\\s+de\\s+l’entreprise,\\s+veuillez\\s+consulter\\s+l’url\\s+:",
+    "To\\s+consult\\s+the\\s+entire\\s+Natixis\\s+disclaimers,\\s+please\\s+use\\s+the\\s+following\\s+link\\s+:",
+    "This\\s+email\\s+and\\s+any\\s+attachments\\s+are\\s+confidential\\s+and\\s+may\\s+also\\s+be\\s+privileged\\.\\s+If\\s+you\\s+are\\s+not\\s+the\\s+named\\s+recipient,\\s+please\\s+notify\\s+the\\s+sender\\s+immediately,\\s+and\\s+do\\s+not\\s+disclose\\s+the\\s+contents\\s+to\\s+another\\s+person,\\s+use\\s+it\\s+for\\s+any\\s+purpose,\\s+or\\s+store,\\s+or\\s+copy\\s+the\\s+information\\s+in\\s+any\\s+medium\\.\\s+Please\\s+also\\s+destroy\\s+and\\s+delete\\s+the\\s+message\\s+from\\s+your\\s+computer\\.",
+    "Ce\\s+message\\s+et\\s+toutes\\s+les\\s+pièces\\s+jointes\\s+sont\\s+établis\\s+à\\s+l'attention\\s+exclusive\\s+de\\s+ses\\s+destinataires\\s+et\\s+sont\\s+confidentiels\\.\\s+Si\\s+vous\\s+recevez\\s+ce\\s+message\\s+par\\s+erreur,\\s+merci\\s+de\\s+le\\s+détruire\\s+et\\s+d'en\\s+avertir\\s+immédiatement\\s+l'expéditeur\\s+par\\s+retour\\s+d'email\\s+à",
+    "contact@inlex\\.com\\.\\s+Toute\\s+utilisation\\s+de\\s+ce\\s+message\\s+non\\s+conforme\\s+à\\s+sa\\s+destination,\\s+toute\\s+diffusion\\s+ou\\s+toute\\s+publication,\\s+totale\\s+ou\\s+partielle,\\s+est\\s+interdite,\\s+sauf\\s+autorisation\\s+expresse\\.\\s+L'internet\\s+ne\\s+permettant\\s+pas\\s+d'assurer\\s+l'intégrité\\s+de\\s+ce\\s+message,\\s+INLEX\\s+IP\\s+EXPERTISE\\s+décline\\s+toute\\s+responsabilité\\s+au\\s+titre\\s+de\\s+ce\\s+message,\\s+dans\\s+l'hypothèse\\s+où\\s+il\\s+aurait\\s+été\\s+modifié\\.",
+    "This\\s+message\\s+including\\s+any\\s+attachments\\s+is\\s+confidential\\s+and\\s+intended\\s+solely\\s+for\\s+the\\s+addressees\\.\\s+If\\s+received\\s+by\\s+error,\\s+please\\s+delete\\s+the\\s+message\\s+and\\s+inform\\s+us\\s+immediately\\s+by\\s+return\\s+e\\-mail\\s+at",
+    "message\\s+s'il\\s+a\\s+été\\s+modifié,\\s+déformé,\\s+falsifié,\\s+infecté\\s+par\\s+un\\s+virus\\s+ou\\s+encore\\s+édité\\s+ou\\s+diffusé\\s+sans\\s+autorisation\\.",
+    "\"This\\s+message\\s+and\\s+any\\s+attachment\\s+are\\s+confidential\\s+and/or\\s+may\\s+be\\s+protected\\s+from\\s+disclosure\\.\\s+If\\s+you\\s+are\\s+not\\s+the\\s+intended\\s+recipient,\\s+please\\s+telephone\\s+\\(\\+33\\(0\\)5\\s+61\\s+40\\s+00\\s+88\\)\\s+or\\s+email\\s+the\\s+sender\\s+and\\s+delete\\s+permanently\\s+this\\s+message\\s+and\\s+any\\s+attachment\\s+from\\s+your\\s+system\\.\\s+If\\s+you\\s+are\\s+not\\s+the\\s+intended\\s+recipient\\s+you\\s+must\\s+not\\s+copy\\s+this\\s+message\\s+or\\s+attachment\\s+or\\s+disclose\\s+the\\s+contents\\s+to\\s+any\\s+other\\s+person\\.\"",
+    "Note\\s+de\\s+confidentialité\\s+:\\s+les\\s+informations\\s+contenues\\s+dans\\s+ce\\s+document\\s+peuvent\\s+être\\s+de\\s+nature\\s+confidentielle\\s+et\\s+sont\\s+destinées\\s+à\\s+l’usage\\s+exclusif\\s+du\\s+destinataire\\.\\s+Si\\s+le\\s+lecteur\\s+de\\s+ce\\s+message\\s+n’était\\s+pas\\s+le\\s+destinataire,\\s+il\\s+est\\s+averti\\s+que\\s+toute\\s+révélation,\\s+distribution\\s+ou\\s+copie\\s+de\\s+ce\\s+message\\s+ou\\s+des\\s+informations\\s+qu’il\\s+contient,\\s+est\\s+strictement\\s+interdit\\.\\s+Si\\s+vous\\s+avez\\s+reçu\\s+ce\\s+message\\s+par\\s+erreur\\s+nous\\s+vous\\s+remercions\\s+de\\s+nous\\s+le\\s+signaler\\s+par\\s+téléphone\\."
+  ]
+}

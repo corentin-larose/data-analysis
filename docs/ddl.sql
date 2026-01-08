@@ -1,8 +1,19 @@
+create table `data-analysis`.email_addresses
+(
+    id    int auto_increment
+        primary key,
+    email varchar(255) not null,
+    constraint email
+        unique (email)
+)
+    collate = utf8mb4_unicode_ci;
+
 create table `data-analysis`.identity
 (
     id            int auto_increment
         primary key,
     email_address varchar(255) not null,
+    name          varchar(255) null,
     constraint email_address
         unique (email_address)
 );
@@ -11,17 +22,19 @@ create table `data-analysis`.email
 (
     id                  bigint auto_increment
         primary key,
-    message_fingerprint char(64)             not null,
-    subject             text                 null,
-    sender_identity_id  int                  null,
-    sent_at             datetime             null,
-    raw_body            longtext             null,
-    normalized_body     longtext             null,
-    cleaned_body        longtext             null,
-    has_attachments     tinyint(1) default 0 null,
-    message_id          varchar(255)         null,
-    in_reply_to         varchar(255)         null,
-    thread_references   text                 null,
+    message_fingerprint char(64)                     not null,
+    subject             text                         null,
+    sender_identity_id  int                          null,
+    sent_at             datetime                     null,
+    raw_body            longtext                     null,
+    normalized_body     longtext                     null,
+    cleaned_body        longtext                     null,
+    has_attachments     tinyint(1) default 0         null,
+    message_id          varchar(255)                 null,
+    in_reply_to         varchar(255)                 null,
+    thread_references   text                         null,
+    tone_flags          longtext collate utf8mb4_bin null
+        check (json_valid(`tone_flags`)),
     constraint message_fingerprint
         unique (message_fingerprint),
     constraint email_ibfk_1
@@ -75,6 +88,9 @@ create index identity_id
 create index idx_email
     on `data-analysis`.identity (email_address);
 
+create index idx_name
+    on `data-analysis`.identity (name);
+
 create table `data-analysis`.mailbox
 (
     id               int auto_increment
@@ -106,4 +122,3 @@ create index mailbox_id
 create index idx_pst_filename
     on `data-analysis`.mailbox (pst_filename);
 
-SET GLOBAL max_allowed_packet = 1024 * 1024 * 512; -- 1 Go

@@ -2,23 +2,33 @@
 default_character_set = utf8mb4
 
 [mysqld]
-bind-address = 0.0.0.0 # make sure to bind it to all IPs, else mysql listens on 127.0.0.1
-binlog_format=mixed
-binlog_ignore_db=mysql
+# --- Accès et Réseau ---
+bind-address = 0.0.0.0
+max_connections = 100
+
+# --- Performance & Mémoire (Crucial pour 350Go) ---
+# Allouez environ 60-70% de votre RAM disponible à InnoDB
+# Exemple pour 16Go de RAM -> 10G / Pour 32Go de RAM -> 22G
+innodb_buffer_pool_size = 12G
+innodb_log_file_size = 2G
+innodb_log_buffer_size = 64M
+innodb_flush_log_at_trx_commit = 2  # Performance ++ (écrit sur disque toutes les secondes au lieu de chaque commit)
+innodb_flush_method = O_DIRECT
+
+# --- Paramètres de contenu volumineux ---
+max_allowed_packet = 1G             # Nécessaire pour les LONGTEXT (raw_body)
+innodb_strict_mode = 0
+
+# --- Optimisation de l'Import (Désactivation temporaire pour vitesse) ---
+# On désactive les logs inutiles pendant l'import massif pour économiser des IOPS
+skip-log-bin                        # Désactive le binlog (gain de vitesse majeur)
+slow_query_log = 0                  # Désactive le log lent
+general_log = 0                     # Désactive le log général (très lourd sur 1M+ emails)
+
+# --- Encodage ---
 character_set_server = utf8mb4
-collation_server = utf8mb4_general_ci
+collation_server = utf8mb4_unicode_ci
 default-time-zone='UTC'
-gtid_domain_id = 1
-log_bin = /var/lib/mysql/mysql-bin.log
-log_slave_updates = ON
-server-id = 101
+
+# --- Sécurité & Mode ---
 sql_mode=TRADITIONAL
-
-log_queries_not_using_indexes = 1
-long_query_time = 0
-min_examined_row_limit = 1
-slow_query_log_file = /var/log/mysql/mysql-slow.log
-slow_query_log = 1
-
-general_log_file = /var/log/mysql/general.log
-general_log = 1
