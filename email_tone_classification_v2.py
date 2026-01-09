@@ -99,8 +99,8 @@ def main():
                             JOIN identity sender ON e.sender_identity_id = sender.id
                             JOIN email_recipient er ON e.id = er.email_id
                             JOIN identity recipient ON er.identity_id = recipient.id
-                   WHERE sender.name IN ('Valérie COSTES-FORET')
-                     AND recipient.name IN ('David LIORET')
+                   WHERE sender.name IN ('David LIORET','Valérie COSTES-FORET')
+                     AND recipient.name IN ('David LIORET','Valérie COSTES-FORET')
                      AND e.cleaned_body != ''
                      AND e.tone_flags IS NULL
                    ORDER BY e.sent_at ASC LIMIT %s""",

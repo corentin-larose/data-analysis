@@ -79,7 +79,8 @@ def fetch_emails_generator(cursor):
             e.normalized_body,
             GROUP_CONCAT(ri.email_address SEPARATOR ',') as recipients,
             GROUP_CONCAT(ri.name SEPARATOR ',') as recipient_names,
-            e.tone_flags
+            e.tone_flags,
+            e.interesting
         FROM email e
         LEFT JOIN identity i ON e.sender_identity_id = i.id
         LEFT JOIN email_recipient er ON e.id = er.email_id
@@ -127,7 +128,8 @@ def fetch_emails_generator(cursor):
                         "body": clean_for_json(row[5]),
                         "recipients": row[6].split(',') if row[6] else [],
                         "recipient_names": row[7].split(',') if row[7] else [],
-                        "tone_flags": tone_flags
+                        "tone_flags": tone_flags,
+                        "interesting": bool(row[9])
                     }
                 }
             except Exception as e:
